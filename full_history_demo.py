@@ -378,10 +378,11 @@ commit.committer_email = email.encode("utf-8")
             return
 
         
+
 print("Publishing reconstructed branches...", flush=True)
 
 run([
-    "git", "-C", str(repo),
+    "git", "-C", str(source),
     "push", "--force", "destination",
     "+refs/heads/*:refs/heads/demo/*"
 ])
@@ -389,10 +390,11 @@ run([
 print("Publishing reconstructed tags...", flush=True)
 
 run([
-    "git", "-C", str(repo),
+    "git", "-C", str(source),
     "push", "--force", "destination",
     "+refs/tags/*:refs/tags/demo/*"
 ])
+
 
 
 
