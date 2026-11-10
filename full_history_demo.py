@@ -377,37 +377,23 @@ commit.committer_email = email.encode("utf-8")
 
             return
 
-        print(
-            "Publishing reconstructed branches and tags..."
-        )
+        
+print("Publishing reconstructed branches...", flush=True)
 
-        run([
-            "git",
-            "-C",
-            str(mirror),
-            "remote",
-            "add",
-            "destination",
-            destination
-        ])
+run([
+    "git", "-C", str(repo),
+    "push", "--force", "destination",
+    "+refs/heads/*:refs/heads/demo/*"
+])
 
-        # Preserve destination main and publish reconstructed
-        # source branches under a separate namespace.
+print("Publishing reconstructed tags...", flush=True)
 
-        run([
-            "git",
-            "-C",
-            str(mirror),
-            "push",
-            "--force",
-            "destination",
-            "+refs/heads/*:refs/heads/demo/*",
-            "+refs/tags/*:refs/tags/demo/*"
-        ])
+run([
+    "git", "-C", str(repo),
+    "push", "--force", "destination",
+    "+refs/tags/*:refs/tags/demo/*"
+])
 
-        print(
-            "Successfully published synthetic history."
-        )
 
 
 if __name__ == "__main__":
