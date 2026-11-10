@@ -1,0 +1,110 @@
+
+name: Full Synthetic Git History
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_hours:
+        description: "Compressed history duration in hours"
+        required: true
+        default: "24"
+        type: string
+
+      start_utc:
+        description: "Start date in UTC; blank means now"
+        required: false
+        default: ""
+        type: string
+
+      identity_mode:
+        description: "Commit attribution"
+        required: true
+        default: "bot"
+        type: choice
+        options:
+          - bot
+          - one
+          - two
+
+      name1:
+        description: "Demo Contributor A name"
+        required: false
+        default: "Demo Contributor A"
+        type: string
+
+      email1:
+        description: "Demo Contributor A email"
+        required: false
+        default: "demo-a@example.invalid"
+        type: string
+
+      name2:
+        description: "Demo Contributor B name"
+        required: false
+        default: "Demo Contributor B"
+        type: string
+
+      email2:
+        description: "Demo Contributor B email"
+        required: false
+        default: "demo-b@example.invalid"
+        type: string
+
+      assignment_seed:
+        description: "Random assignment seed"
+        required: true
+        default: "42"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: full-synthetic-history
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout destination
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install git-filter-repo
+
+      - name: Reconstruct Git history
+        env:
+          SOURCE_REPO: https://github.com/epsretriever/spherex-planet-x.git
+
+          DESTINATION_REPO: https://github.com/ESuperCode/squeeze_test.git
+
+          WINDOW_HOURS: ${{ inputs.window_hours || '24' }}
+
+          START_UTC: ${{ inputs.start_utc || '' }}
+
+          IDENTITY_MODE: ${{ inputs.identity_mode || 'bot' }}
+
+          NAME1: ${{ inputs.name1 || 'Demo Contributor A' }}
+
+          EMAIL1: ${{ inputs.email1 || 'demo-a@example.invalid' }}
+
+          NAME2: ${{ inputs.name2 || 'Demo Contributor B' }}
+
+          EMAIL2: ${{ inputs.email2 || 'demo-b@example.invalid' }}
+
+          ASSIGNMENT_SEED: ${{ inputs.assignment_seed || '42' }}
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        run: |
+          python full_history_demo.py --push
