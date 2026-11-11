@@ -438,7 +438,6 @@ def main():
                 "-C", str(mirror),
                 "push",
                 "--force",
-                "--prune",
                 "destination",
                 "+refs/heads/*:refs/heads/*"
             ])
