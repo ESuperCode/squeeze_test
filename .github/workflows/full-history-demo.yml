@@ -57,9 +57,7 @@ on:
         type: string
 
 permissions:
-  contents: write
-  actions: write
-  workflows: write
+  contents: write  
   
 jobs:
   reconstruct:
