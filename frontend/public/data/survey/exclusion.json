@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "pipeline_version": "0.1.0+git.372b2d2",
-  "build_run_id": "gh-41966090579-1",
-  "generated_utc": "2026-11-05T04:11:14Z",
+  "pipeline_version": "0.1.0+git.24bee35",
+  "build_run_id": "gh-42954642633-1",
+  "generated_utc": "2026-11-11T03:44:41Z",
   "survey": {
     "survey_generated_utc": "2026-11-04T21:40:00Z",
     "n_patches_searched": 6001,
