@@ -2,71 +2,11 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "object_id": "obj-sv-2025w412b-l1101-n008-c01",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "orbit_epoch_mjd": 60958.335423,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 203.14878,
-      "dec_deg": -14.86525,
-      "sigma_major_arcsec": 305202.3,
-      "sigma_minor_arcsec": 33715.8,
-      "sigma_pa_deg": 98.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 204.40508,
-      "dec_deg": -15.38409,
-      "sigma_major_arcsec": 305673.9,
-      "sigma_minor_arcsec": 35195.7,
-      "sigma_pa_deg": 98.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 202.4855,
-      "dec_deg": -15.05937,
-      "sigma_major_arcsec": 309957.2,
-      "sigma_minor_arcsec": 35086.3,
-      "sigma_pa_deg": 98.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 203.36128,
-      "dec_deg": -15.44325,
-      "sigma_major_arcsec": 309472.5,
-      "sigma_minor_arcsec": 35481.5,
-      "sigma_pa_deg": 98.2,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 205.53639,
-      "dec_deg": -15.55799,
-      "sigma_major_arcsec": 304413.2,
-      "sigma_minor_arcsec": 33808.9,
-      "sigma_pa_deg": 98.5,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 205.09534,
-      "dec_deg": -16.27152,
-      "sigma_major_arcsec": 310039.0,
-      "sigma_minor_arcsec": 35284.6,
-      "sigma_pa_deg": 98.1,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -615,6 +555,66 @@
       "sigma_major_arcsec": 278031.1,
       "sigma_minor_arcsec": 48623.4,
       "sigma_pa_deg": 91.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 259.66882,
+      "dec_deg": -23.88087,
+      "sigma_major_arcsec": 277698.4,
+      "sigma_minor_arcsec": 48560.4,
+      "sigma_pa_deg": 91.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 260.69961,
+      "dec_deg": -23.96128,
+      "sigma_major_arcsec": 277417.3,
+      "sigma_minor_arcsec": 48509.2,
+      "sigma_pa_deg": 91.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 261.69805,
+      "dec_deg": -24.02864,
+      "sigma_major_arcsec": 277185.5,
+      "sigma_minor_arcsec": 48467.2,
+      "sigma_pa_deg": 91.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 262.08975,
+      "dec_deg": -23.86953,
+      "sigma_major_arcsec": 278131.4,
+      "sigma_minor_arcsec": 48810.3,
+      "sigma_pa_deg": 91.1,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 263.61079,
+      "dec_deg": -24.12613,
+      "sigma_major_arcsec": 276858.4,
+      "sigma_minor_arcsec": 48403.5,
+      "sigma_pa_deg": 91.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 264.30506,
+      "dec_deg": -24.05995,
+      "sigma_major_arcsec": 277231.7,
+      "sigma_minor_arcsec": 48523.9,
+      "sigma_pa_deg": 91.1,
       "vmag_estimate": null
     }
   ],

@@ -1454,7 +1454,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "992 Swasey (A922 VD)",
+      "h": 10.53,
+      "g": null,
+      "diameter_km": 27.585,
+      "diameter_sigma_km": 0.376,
+      "albedo": 0.111,
+      "albedo_sigma": 0.015,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=992"
+    },
     "caveats": []
   }
 }

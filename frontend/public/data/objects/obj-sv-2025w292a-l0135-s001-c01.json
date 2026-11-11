@@ -1623,7 +1623,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "2591 Dworetsky (1949 PS)",
+      "h": 11.62,
+      "g": null,
+      "diameter_km": 12.925,
+      "diameter_sigma_km": 0.141,
+      "albedo": 0.291,
+      "albedo_sigma": 0.037,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2591"
+    },
     "caveats": []
   }
 }

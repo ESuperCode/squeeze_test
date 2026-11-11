@@ -707,17 +707,7 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": {
-      "designation": "4839 Daisetsuzan (1989 QG)",
-      "h": 13.24,
-      "g": null,
-      "diameter_km": 8.141,
-      "diameter_sigma_km": 0.099,
-      "albedo": 0.202,
-      "albedo_sigma": 0.032,
-      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=4839"
-    },
+    "jpl": null,
     "caveats": []
   }
 }

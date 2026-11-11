@@ -787,7 +787,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "4139 Ul'yanin (1975 VE2)",
+      "h": 12.35,
+      "g": null,
+      "diameter_km": 12.707,
+      "diameter_sigma_km": 0.262,
+      "albedo": 0.158,
+      "albedo_sigma": 0.031,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=4139"
+    },
     "caveats": []
   }
 }

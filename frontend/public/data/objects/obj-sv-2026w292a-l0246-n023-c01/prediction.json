@@ -2,71 +2,11 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "object_id": "obj-sv-2026w292a-l0246-n023-c01",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "orbit_epoch_mjd": 61238.532643,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 2.0285,
-      "dec_deg": 14.81147,
-      "sigma_major_arcsec": 172726.7,
-      "sigma_minor_arcsec": 23531.9,
-      "sigma_pa_deg": 79.4,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 1.17393,
-      "dec_deg": 14.47939,
-      "sigma_major_arcsec": 175621.7,
-      "sigma_minor_arcsec": 24280.5,
-      "sigma_pa_deg": 78.9,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 1.7295,
-      "dec_deg": 14.8521,
-      "sigma_major_arcsec": 184428.6,
-      "sigma_minor_arcsec": 26671.1,
-      "sigma_pa_deg": 80.7,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 0.60307,
-      "dec_deg": 14.0101,
-      "sigma_major_arcsec": 176260.8,
-      "sigma_minor_arcsec": 24265.9,
-      "sigma_pa_deg": 78.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 0.32716,
-      "dec_deg": 13.78247,
-      "sigma_major_arcsec": 176541.0,
-      "sigma_minor_arcsec": 24256.8,
-      "sigma_pa_deg": 78.5,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 0.34533,
-      "dec_deg": 13.58125,
-      "sigma_major_arcsec": 175007.3,
-      "sigma_minor_arcsec": 23959.5,
-      "sigma_pa_deg": 78.6,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -616,7 +556,67 @@
       "sigma_minor_arcsec": 28640.5,
       "sigma_pa_deg": 70.9,
       "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 0.40908,
+      "dec_deg": 7.57148,
+      "sigma_major_arcsec": 145053.7,
+      "sigma_minor_arcsec": 17775.2,
+      "sigma_pa_deg": 67.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 0.40092,
+      "dec_deg": 7.5119,
+      "sigma_major_arcsec": 144894.9,
+      "sigma_minor_arcsec": 17667.9,
+      "sigma_pa_deg": 67.1,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 0.64334,
+      "dec_deg": 7.56003,
+      "sigma_major_arcsec": 144266.1,
+      "sigma_minor_arcsec": 17527.2,
+      "sigma_pa_deg": 66.9,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 0.88944,
+      "dec_deg": 7.61142,
+      "sigma_major_arcsec": 143644.9,
+      "sigma_minor_arcsec": 17388.5,
+      "sigma_pa_deg": 66.8,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 1.13007,
+      "dec_deg": 7.66199,
+      "sigma_major_arcsec": 143064.4,
+      "sigma_minor_arcsec": 17252.4,
+      "sigma_pa_deg": 66.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 1.38108,
+      "dec_deg": 7.71854,
+      "sigma_major_arcsec": 142471.5,
+      "sigma_minor_arcsec": 17118.7,
+      "sigma_pa_deg": 66.4,
+      "vmag_estimate": null
     }
   ],
-  "note_plain": "The orbit comes from 7 hours of observations ending July 2026, so where it is now is uncertain by about 51 degrees: it needs new observations to be found again."
+  "note_plain": "The orbit comes from 7 hours of observations ending July 2026, so where it is now is uncertain by about 50 degrees: it needs new observations to be found again."
 }

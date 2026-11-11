@@ -1786,7 +1786,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "2400 Derevskaya (1972 KJ)",
+      "h": 12.14,
+      "g": null,
+      "diameter_km": 13.614,
+      "diameter_sigma_km": 2.071,
+      "albedo": 0.166,
+      "albedo_sigma": 0.068,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2400"
+    },
     "caveats": []
   }
 }

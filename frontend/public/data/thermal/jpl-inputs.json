@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-11-05T04:06:40Z",
+ "generated_utc": "2026-11-11T03:44:15Z",
  "source": "JPL Small-Body Database API (ssd-api.jpl.nasa.gov/sbdb.api) and JPL Horizons, for objects identified by JPL SBIdent (pipeline triage or the Worker's checks)",
  "objects": {
   "obj-aquarius-a-c01": {
    "designation": "2410 Morrison (1981 AF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.77,
     "g": null,
@@ -31,7 +31,7 @@
   },
   "obj-aquarius-b-c01": {
    "designation": "2524 Budovicium (1981 QB1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.23,
     "g": null,
@@ -58,7 +58,7 @@
   },
   "obj-sv-2025w174b-l1530-s040-c01": {
    "designation": "5424 Covington (1983 TN1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.31,
     "g": null,
@@ -85,7 +85,7 @@
   },
   "obj-sv-2025w174b-l1542-s001-c01": {
    "designation": "39558 Kishine (1992 KC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.97,
     "g": null,
@@ -110,36 +110,9 @@
     "JPL Horizons: 0 of 6 epochs"
    ]
   },
-  "obj-sv-2025w174b-l1560-s001-c01": {
-   "designation": "2713 Luxembourg (1938 EA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 11.49,
-    "g": null,
-    "diameter_km": 15.093,
-    "diameter_sigma_km": 0.125,
-    "albedo": 0.195,
-    "albedo_sigma": 0.038,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "2713 Luxembourg (1938 EA)",
-    "elements": {
-     "a": 2.85,
-     "e": 0.0274,
-     "i": 1.34,
-     "om": 339.0,
-     "w": 301.0,
-     "ma": 340.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 14 epochs"
-   ]
-  },
   "obj-sv-2025w174b-l1560-s004-c01": {
    "designation": "2713 Luxembourg (1938 EA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.49,
     "g": null,
@@ -162,38 +135,11 @@
    "horizons": null,
    "errors": [
     "JPL Horizons: 0 of 14 epochs"
-   ]
-  },
-  "obj-sv-2025w174b-l1578-s001-c01": {
-   "designation": "14436 Morishita (1992 FC2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 14.26,
-    "g": null,
-    "diameter_km": 5.656,
-    "diameter_sigma_km": 0.247,
-    "albedo": 0.152,
-    "albedo_sigma": 0.035,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-    "fullname": "14436 Morishita (1992 FC2)",
-    "elements": {
-     "a": 2.58,
-     "e": 0.223,
-     "i": 1.84,
-     "om": 353.0,
-     "w": 210.0,
-     "ma": 84.4
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 16 epochs"
    ]
   },
   "obj-sv-2025w174b-l1578-s004-c01": {
    "designation": "14436 Morishita (1992 FC2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.26,
     "g": null,
@@ -220,7 +166,7 @@
   },
   "obj-sv-2025w174b-l3141-n017-c01": {
    "designation": "514 Armida (A903 QC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.2,
     "g": null,
@@ -247,7 +193,7 @@
   },
   "obj-sv-2025w212c-l1788-n020-c01": {
    "designation": "10478 Alsabti (1981 WO)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.52,
     "g": null,
@@ -274,7 +220,7 @@
   },
   "obj-sv-2025w212c-l1794-n020-c01": {
    "designation": "6678 Seurat (3422 T-3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.99,
     "g": null,
@@ -301,7 +247,7 @@
   },
   "obj-sv-2025w212c-l1794-n020-c02": {
    "designation": "2914 Glarnisch (1965 SB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.51,
     "g": null,
@@ -328,7 +274,7 @@
   },
   "obj-sv-2025w212c-l1797-n017-c01": {
    "designation": "1132 Hollandia (1929 RB1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.21,
     "g": null,
@@ -355,7 +301,7 @@
   },
   "obj-sv-2025w212c-l1800-n017-c01": {
    "designation": "1132 Hollandia (1929 RB1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.21,
     "g": null,
@@ -382,7 +328,7 @@
   },
   "obj-sv-2025w212c-l1869-n014-c01": {
    "designation": "5479 Grahamryder (1989 UT5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.38,
     "g": null,
@@ -409,7 +355,7 @@
   },
   "obj-sv-2025w212c-l1872-n014-c01": {
    "designation": "5479 Grahamryder (1989 UT5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.38,
     "g": null,
@@ -436,7 +382,7 @@
   },
   "obj-sv-2025w212c-l1881-n014-c01": {
    "designation": "85598 (1998 FZ86)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.45,
     "g": null,
@@ -463,7 +409,7 @@
   },
   "obj-sv-2025w212c-l3318-s001-c01": {
    "designation": "3187 Dalian (1977 TO3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.33,
     "g": null,
@@ -490,7 +436,7 @@
   },
   "obj-sv-2025w212c-l3318-s004-c01": {
    "designation": "3187 Dalian (1977 TO3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.33,
     "g": null,
@@ -517,7 +463,7 @@
   },
   "obj-sv-2025w212c-l3321-s007-c01": {
    "designation": "7895 Kaseda (1995 DK1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.49,
     "g": null,
@@ -544,7 +490,7 @@
   },
   "obj-sv-2025w212c-l3324-s007-c01": {
    "designation": "7895 Kaseda (1995 DK1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.49,
     "g": null,
@@ -569,36 +515,9 @@
     "JPL Horizons: 0 of 14 epochs"
    ]
   },
-  "obj-sv-2025w212c-l3333-s010-c01": {
-   "designation": "317958 (2003 XG)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 15.14,
-    "g": null,
-    "diameter_km": 5.355,
-    "diameter_sigma_km": 0.994,
-    "albedo": 0.052,
-    "albedo_sigma": 0.028,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2015ApJ...814..117N)",
-    "fullname": "317958 (2003 XG)",
-    "elements": {
-     "a": 3.16,
-     "e": 0.512,
-     "i": 7.11,
-     "om": 307.0,
-     "w": 55.4,
-     "ma": 47.2
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 12 epochs"
-   ]
-  },
   "obj-sv-2025w212c-l3363-s007-c01": {
    "designation": "2691 Sersic (1974 KB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.45,
     "g": null,
@@ -623,36 +542,9 @@
     "JPL Horizons: 0 of 13 epochs"
    ]
   },
-  "obj-sv-2025w212c-l3366-s013-c01": {
-   "designation": "632 Pyrrha (A907 GY)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 11.47,
-    "g": null,
-    "diameter_km": 14.419,
-    "diameter_sigma_km": 0.219,
-    "albedo": 0.195,
-    "albedo_sigma": 0.028,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-    "fullname": "632 Pyrrha (A907 GY)",
-    "elements": {
-     "a": 2.66,
-     "e": 0.192,
-     "i": 2.22,
-     "om": 356.0,
-     "w": 252.0,
-     "ma": 131.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 18 epochs"
-   ]
-  },
   "obj-sv-2025w212c-l3369-s013-c01": {
    "designation": "1639 Bower (1951 RB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.17,
     "g": null,
@@ -679,7 +571,7 @@
   },
   "obj-sv-2025w212c-l3372-s004-c01": {
    "designation": "634 Ute (A907 JJ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.9,
     "g": null,
@@ -706,7 +598,7 @@
   },
   "obj-sv-2025w212c-l3372-s004-c02": {
    "designation": "1455 Mitchella (1937 LF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.79,
     "g": null,
@@ -733,7 +625,7 @@
   },
   "obj-sv-2025w212c-l3402-s013-c01": {
    "designation": "760 Massinga (A913 QD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 7.87,
     "g": null,
@@ -760,7 +652,7 @@
   },
   "obj-sv-2025w212c-l3414-n005-c01": {
    "designation": "1892 Lucienne (1971 SD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.91,
     "g": null,
@@ -785,36 +677,9 @@
     "JPL Horizons: 0 of 16 epochs"
    ]
   },
-  "obj-sv-2025w222b-l1902-s001-c01": {
-   "designation": "18643 van Rysselberghe (1998 EK12)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 13.43,
-    "g": null,
-    "diameter_km": 5.755,
-    "diameter_sigma_km": 0.158,
-    "albedo": 0.369,
-    "albedo_sigma": 0.043,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-    "fullname": "18643 van Rysselberghe (1998 EK12)",
-    "elements": {
-     "a": 2.7,
-     "e": 0.0965,
-     "i": 10.4,
-     "om": 27.0,
-     "w": 315.0,
-     "ma": 317.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 11 epochs"
-   ]
-  },
   "obj-sv-2025w222b-l1917-s007-c01": {
    "designation": "10489 Keinonen (1985 TJ1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.41,
     "g": null,
@@ -841,7 +706,7 @@
   },
   "obj-sv-2025w222b-l1926-s007-c01": {
    "designation": "4842 Atsushi (1989 WK)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.65,
     "g": null,
@@ -866,36 +731,9 @@
     "JPL Horizons: 0 of 10 epochs"
    ]
   },
-  "obj-sv-2025w222b-l1932-s007-c01": {
-   "designation": "11226 (1999 JO36)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 12.74,
-    "g": null,
-    "diameter_km": 12.229,
-    "diameter_sigma_km": 3.905,
-    "albedo": 0.116,
-    "albedo_sigma": 0.087,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2016AJ....152...63N)",
-    "fullname": "11226 (1999 JO36)",
-    "elements": {
-     "a": 3.02,
-     "e": 0.0568,
-     "i": 9.52,
-     "om": 214.0,
-     "w": 60.2,
-     "ma": 11.7
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 9 epochs"
-   ]
-  },
   "obj-sv-2025w222b-l1935-n005-c01": {
    "designation": "2240 Tsai (1978 YA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.99,
     "g": null,
@@ -922,7 +760,7 @@
   },
   "obj-sv-2025w222b-l1938-n005-c01": {
    "designation": "2240 Tsai (1978 YA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.99,
     "g": null,
@@ -947,36 +785,9 @@
     "JPL Horizons: 0 of 10 epochs"
    ]
   },
-  "obj-sv-2025w231c-l3417-s010-c01": {
-   "designation": "7217 Dacke (1979 QX3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 11.72,
-    "g": null,
-    "diameter_km": 24.418,
-    "diameter_sigma_km": 0.198,
-    "albedo": 0.089,
-    "albedo_sigma": 0.015,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "7217 Dacke (1979 QX3)",
-    "elements": {
-     "a": 3.21,
-     "e": 0.164,
-     "i": 10.1,
-     "om": 325.0,
-     "w": 355.0,
-     "ma": 62.5
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 10 epochs"
-   ]
-  },
   "obj-sv-2025w231c-l3435-s022-c01": {
    "designation": "383 Janina (A894 BC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.04,
     "g": null,
@@ -1003,7 +814,7 @@
   },
   "obj-sv-2025w231c-l3450-s022-c02": {
    "designation": "4627 Pinomogavero (1985 RT2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.74,
     "g": null,
@@ -1030,7 +841,7 @@
   },
   "obj-sv-2025w252a-l0003-n008-c01": {
    "designation": "4239 Goodman (1980 OE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.31,
     "g": null,
@@ -1057,7 +868,7 @@
   },
   "obj-sv-2025w252a-l0003-n011-c01": {
    "designation": "4239 Goodman (1980 OE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.31,
     "g": null,
@@ -1084,7 +895,7 @@
   },
   "obj-sv-2025w252a-l0009-n005-c01": {
    "designation": "1426 Riviera (1937 GF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.0,
     "g": null,
@@ -1111,7 +922,7 @@
   },
   "obj-sv-2025w252a-l0009-n014-c01": {
    "designation": "1463 Nordenmarkia (1938 CB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.71,
     "g": null,
@@ -1136,36 +947,9 @@
     "JPL Horizons: 0 of 24 epochs"
    ]
   },
-  "obj-sv-2025w252a-l0012-n005-c01": {
-   "designation": "1426 Riviera (1937 GF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 11.0,
-    "g": null,
-    "diameter_km": 17.613,
-    "diameter_sigma_km": 0.11,
-    "albedo": 0.414,
-    "albedo_sigma": 0.048,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "1426 Riviera (1937 GF)",
-    "elements": {
-     "a": 2.58,
-     "e": 0.161,
-     "i": 9.07,
-     "om": 335.0,
-     "w": 274.0,
-     "ma": 153.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 30 epochs"
-   ]
-  },
   "obj-sv-2025w252a-l0012-n014-c01": {
    "designation": "1463 Nordenmarkia (1938 CB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.71,
     "g": null,
@@ -1192,7 +976,7 @@
   },
   "obj-sv-2025w252a-l0018-n008-c01": {
    "designation": "4028 Pancratz (1982 DV2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.13,
     "g": null,
@@ -1219,7 +1003,7 @@
   },
   "obj-sv-2025w252a-l0018-n011-c01": {
    "designation": "4028 Pancratz (1982 DV2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.13,
     "g": null,
@@ -1246,7 +1030,7 @@
   },
   "obj-sv-2025w252a-l0021-n008-c01": {
    "designation": "6116 Still (1984 UB3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.6,
     "g": null,
@@ -1273,7 +1057,7 @@
   },
   "obj-sv-2025w252a-l0021-n011-c01": {
    "designation": "6116 Still (1984 UB3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.6,
     "g": null,
@@ -1298,9 +1082,36 @@
     "JPL Horizons: 0 of 8 epochs"
    ]
   },
+  "obj-sv-2025w252a-l2013-n020-c01": {
+   "designation": "992 Swasey (A922 VD)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 10.53,
+    "g": null,
+    "diameter_km": 27.585,
+    "diameter_sigma_km": 0.376,
+    "albedo": 0.111,
+    "albedo_sigma": 0.015,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "992 Swasey (A922 VD)",
+    "elements": {
+     "a": 3.03,
+     "e": 0.0906,
+     "i": 10.9,
+     "om": 212.0,
+     "w": 349.0,
+     "ma": 83.3
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 15 epochs"
+   ]
+  },
   "obj-sv-2025w252a-l2025-n011-c01": {
    "designation": "2052 Tamriko (1976 UN)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.61,
     "g": null,
@@ -1327,7 +1138,7 @@
   },
   "obj-sv-2025w252a-l2028-n008-c01": {
    "designation": "216 Kleopatra (A880 GB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 7.02,
     "g": 0.29,
@@ -1354,7 +1165,7 @@
   },
   "obj-sv-2025w252a-l2055-n020-c01": {
    "designation": "725 Amanda (A911 UQ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.78,
     "g": null,
@@ -1381,7 +1192,7 @@
   },
   "obj-sv-2025w252a-l2058-s013-c01": {
    "designation": "3133 Sendai (A907 TC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.91,
     "g": null,
@@ -1408,7 +1219,7 @@
   },
   "obj-sv-2025w252a-l2064-s013-c01": {
    "designation": "229879 (2009 UZ46)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 15.7,
     "g": null,
@@ -1435,7 +1246,7 @@
   },
   "obj-sv-2025w252a-l2067-s013-c01": {
    "designation": "223537 (2004 EA19)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 16.67,
     "g": null,
@@ -1462,7 +1273,7 @@
   },
   "obj-sv-2025w252a-l2100-n017-c01": {
    "designation": "3120 Dangrania (1979 RZ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.76,
     "g": null,
@@ -1489,7 +1300,7 @@
   },
   "obj-sv-2025w252a-l2100-s010-c01": {
    "designation": "3396 Muazzez (A915 TE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.3,
     "g": null,
@@ -1516,7 +1327,7 @@
   },
   "obj-sv-2025w252a-l2115-n011-c01": {
    "designation": "30887 (1992 WL2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.45,
     "g": null,
@@ -1543,7 +1354,7 @@
   },
   "obj-sv-2025w252a-l2118-n017-c01": {
    "designation": "278 Paulina (A888 KA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.38,
     "g": null,
@@ -1570,7 +1381,7 @@
   },
   "obj-sv-2025w252a-l3531-n017-c01": {
    "designation": "1068 Nofretete (1926 RK)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.78,
     "g": null,
@@ -1597,7 +1408,7 @@
   },
   "obj-sv-2025w252a-l3561-n017-c01": {
    "designation": "2881 Meiden (1983 AA1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.15,
     "g": null,
@@ -1624,7 +1435,7 @@
   },
   "obj-sv-2025w252a-l3567-s001-c01": {
    "designation": "31569 Adriansonka (1999 FL18)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.36,
     "g": null,
@@ -1651,7 +1462,7 @@
   },
   "obj-sv-2025w252a-l3567-s004-c01": {
    "designation": "31569 Adriansonka (1999 FL18)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.36,
     "g": null,
@@ -1678,7 +1489,7 @@
   },
   "obj-sv-2025w252a-l3570-n005-c01": {
    "designation": "2711 Aleksandrov (1978 QB2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.99,
     "g": null,
@@ -1705,7 +1516,7 @@
   },
   "obj-sv-2025w252a-l3570-n014-c01": {
    "designation": "3932 Edshay (1984 SC5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.9,
     "g": null,
@@ -1732,7 +1543,7 @@
   },
   "obj-sv-2025w252a-l3591-n008-c01": {
    "designation": "17157 (1999 KP6)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.03,
     "g": null,
@@ -1759,7 +1570,7 @@
   },
   "obj-sv-2025w272a-l0024-s004-c01": {
    "designation": "2399 Terradas (1971 MA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.45,
     "g": null,
@@ -1786,7 +1597,7 @@
   },
   "obj-sv-2025w272a-l0024-s013-c01": {
    "designation": "2927 Alamosa (1981 TM)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.12,
     "g": null,
@@ -1813,7 +1624,7 @@
   },
   "obj-sv-2025w272a-l0027-s004-c01": {
    "designation": "2399 Terradas (1971 MA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.45,
     "g": null,
@@ -1840,7 +1651,7 @@
   },
   "obj-sv-2025w272a-l0045-n008-c01": {
    "designation": "4028 Pancratz (1982 DV2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.13,
     "g": null,
@@ -1867,7 +1678,7 @@
   },
   "obj-sv-2025w272a-l0045-s010-c01": {
    "designation": "2918 Salazar (1980 TU4)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.15,
     "g": null,
@@ -1892,36 +1703,9 @@
     "JPL Horizons: 0 of 22 epochs"
    ]
   },
-  "obj-sv-2025w272a-l0045-s022-c01": {
-   "designation": "2505 Hebei (1975 UJ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 11.71,
-    "g": null,
-    "diameter_km": 22.288,
-    "diameter_sigma_km": 0.197,
-    "albedo": 0.089,
-    "albedo_sigma": 0.011,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-    "fullname": "2505 Hebei (1975 UJ)",
-    "elements": {
-     "a": 3.14,
-     "e": 0.172,
-     "i": 2.08,
-     "om": 59.2,
-     "w": 207.0,
-     "ma": 120.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 29 epochs"
-   ]
-  },
   "obj-sv-2025w272a-l0048-n008-c01": {
    "designation": "4028 Pancratz (1982 DV2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.13,
     "g": null,
@@ -1948,7 +1732,7 @@
   },
   "obj-sv-2025w272a-l0057-n032-c01": {
    "designation": "7824 Lynch (1991 RM2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.78,
     "g": null,
@@ -1975,7 +1759,7 @@
   },
   "obj-sv-2025w272a-l3591-s004-c01": {
    "designation": "13537 (1991 SG)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.05,
     "g": null,
@@ -2000,9 +1784,144 @@
     "JPL Horizons: 0 of 9 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0117-n008-c01": {
+   "designation": "2098 Zyskin (1972 QE)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.53,
+    "g": null,
+    "diameter_km": 12.731,
+    "diameter_sigma_km": 0.185,
+    "albedo": 0.165,
+    "albedo_sigma": 0.028,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2098 Zyskin (1972 QE)",
+    "elements": {
+     "a": 2.42,
+     "e": 0.126,
+     "i": 6.5,
+     "om": 338.0,
+     "w": 354.0,
+     "ma": 94.3
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 16 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0120-n008-c01": {
+   "designation": "3765 Texereau (1982 SU1)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.03,
+    "g": null,
+    "diameter_km": 7.351,
+    "diameter_sigma_km": 0.209,
+    "albedo": 0.248,
+    "albedo_sigma": 0.026,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "3765 Texereau (1982 SU1)",
+    "elements": {
+     "a": 2.84,
+     "e": 0.0392,
+     "i": 1.02,
+     "om": 249.0,
+     "w": 187.0,
+     "ma": 346.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 11 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0120-s010-c01": {
+   "designation": "37812 (1998 AB6)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 14.9,
+    "g": null,
+    "diameter_km": 2.501,
+    "diameter_sigma_km": 0.361,
+    "albedo": 0.39,
+    "albedo_sigma": 0.147,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2015ApJ...814..117N)",
+    "fullname": "37812 (1998 AB6)",
+    "elements": {
+     "a": 2.38,
+     "e": 0.224,
+     "i": 2.08,
+     "om": 0.227,
+     "w": 318.0,
+     "ma": 101.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 8 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0120-s010-c02": {
+   "designation": "4139 Ul'yanin (1975 VE2)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.35,
+    "g": null,
+    "diameter_km": 12.707,
+    "diameter_sigma_km": 0.262,
+    "albedo": 0.158,
+    "albedo_sigma": 0.031,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "4139 Ul'yanin (1975 VE2)",
+    "elements": {
+     "a": 3.15,
+     "e": 0.164,
+     "i": 1.59,
+     "om": 134.0,
+     "w": 181.0,
+     "ma": 82.6
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 7 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0126-s001-c01": {
    "designation": "5502 Brashear (1984 EC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.17,
+    "g": null,
+    "diameter_km": 6.465,
+    "diameter_sigma_km": 0.14,
+    "albedo": 0.321,
+    "albedo_sigma": 0.047,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "5502 Brashear (1984 EC)",
+    "elements": {
+     "a": 2.67,
+     "e": 0.128,
+     "i": 12.3,
+     "om": 352.0,
+     "w": 231.0,
+     "ma": 190.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 9 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0126-s004-c01": {
+   "designation": "5502 Brashear (1984 EC)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.17,
     "g": null,
@@ -2029,7 +1948,7 @@
   },
   "obj-sv-2025w292a-l0132-s001-c01": {
    "designation": "2400 Derevskaya (1972 KJ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.14,
     "g": null,
@@ -2054,9 +1973,90 @@
     "JPL Horizons: 0 of 19 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0132-s004-c01": {
+   "designation": "2400 Derevskaya (1972 KJ)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.14,
+    "g": null,
+    "diameter_km": 13.614,
+    "diameter_sigma_km": 2.071,
+    "albedo": 0.166,
+    "albedo_sigma": 0.068,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+    "fullname": "2400 Derevskaya (1972 KJ)",
+    "elements": {
+     "a": 3.0,
+     "e": 0.0989,
+     "i": 10.4,
+     "om": 172.0,
+     "w": 137.0,
+     "ma": 97.4
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 19 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0135-s001-c01": {
+   "designation": "2591 Dworetsky (1949 PS)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.62,
+    "g": null,
+    "diameter_km": 12.925,
+    "diameter_sigma_km": 0.141,
+    "albedo": 0.291,
+    "albedo_sigma": 0.037,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2591 Dworetsky (1949 PS)",
+    "elements": {
+     "a": 2.94,
+     "e": 0.04,
+     "i": 1.54,
+     "om": 356.0,
+     "w": 269.0,
+     "ma": 148.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 17 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0135-s004-c01": {
+   "designation": "2591 Dworetsky (1949 PS)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.62,
+    "g": null,
+    "diameter_km": 12.925,
+    "diameter_sigma_km": 0.141,
+    "albedo": 0.291,
+    "albedo_sigma": 0.037,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2591 Dworetsky (1949 PS)",
+    "elements": {
+     "a": 2.94,
+     "e": 0.04,
+     "i": 1.54,
+     "om": 356.0,
+     "w": 269.0,
+     "ma": 148.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 17 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0138-s007-c01": {
    "designation": "6686 Hernius (1979 QC2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.81,
     "g": null,
@@ -2081,9 +2081,36 @@
     "JPL Horizons: 0 of 13 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0141-n008-c01": {
+   "designation": "3444 Stepanian (1980 RJ2)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.79,
+    "g": null,
+    "diameter_km": 6.425,
+    "diameter_sigma_km": 0.071,
+    "albedo": 0.475,
+    "albedo_sigma": 0.085,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "3444 Stepanian (1980 RJ2)",
+    "elements": {
+     "a": 2.56,
+     "e": 0.261,
+     "i": 6.46,
+     "om": 342.0,
+     "w": 84.0,
+     "ma": 27.7
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 15 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0141-s010-c01": {
    "designation": "2624 Samitchell (1962 RE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.88,
     "g": null,
@@ -2110,7 +2137,7 @@
   },
   "obj-sv-2025w292a-l0144-s010-c01": {
    "designation": "2624 Samitchell (1962 RE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.88,
     "g": null,
@@ -2135,9 +2162,63 @@
     "JPL Horizons: 0 of 13 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0153-s001-c01": {
+   "designation": "5987 Liviogratton (1975 LQ)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.9,
+    "g": null,
+    "diameter_km": 4.669,
+    "diameter_sigma_km": 0.101,
+    "albedo": 0.204,
+    "albedo_sigma": 0.048,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "5987 Liviogratton (1975 LQ)",
+    "elements": {
+     "a": 2.43,
+     "e": 0.155,
+     "i": 5.42,
+     "om": 164.0,
+     "w": 144.0,
+     "ma": 113.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 15 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0153-s004-c01": {
+   "designation": "5987 Liviogratton (1975 LQ)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.9,
+    "g": null,
+    "diameter_km": 4.669,
+    "diameter_sigma_km": 0.101,
+    "albedo": 0.204,
+    "albedo_sigma": 0.048,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "5987 Liviogratton (1975 LQ)",
+    "elements": {
+     "a": 2.43,
+     "e": 0.155,
+     "i": 5.42,
+     "om": 164.0,
+     "w": 144.0,
+     "ma": 113.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 15 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0156-s013-c01": {
    "designation": "1942 Jablunka (1972 SA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.02,
     "g": null,
@@ -2162,9 +2243,90 @@
     "JPL Horizons: 0 of 19 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0159-n002-c01": {
+   "designation": "1938 Lausanna (1974 HC)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.63,
+    "g": null,
+    "diameter_km": 7.638,
+    "diameter_sigma_km": 0.124,
+    "albedo": 0.192,
+    "albedo_sigma": 0.055,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "1938 Lausanna (1974 HC)",
+    "elements": {
+     "a": 2.24,
+     "e": 0.161,
+     "i": 3.34,
+     "om": 172.0,
+     "w": 64.8,
+     "ma": 192.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 24 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0159-s007-c01": {
+   "designation": "1615 Bardwell (1950 BW)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.51,
+    "g": null,
+    "diameter_km": 29.139,
+    "diameter_sigma_km": 0.148,
+    "albedo": 0.06,
+    "albedo_sigma": 0.01,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "1615 Bardwell (1950 BW)",
+    "elements": {
+     "a": 3.12,
+     "e": 0.183,
+     "i": 1.69,
+     "om": 152.0,
+     "w": 254.0,
+     "ma": 20.9
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 24 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0162-n008-c01": {
+   "designation": "7492 Kacenka (1995 UX)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 14.85,
+    "g": null,
+    "diameter_km": 3.338,
+    "diameter_sigma_km": 0.163,
+    "albedo": 0.209,
+    "albedo_sigma": 0.033,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "7492 Kacenka (1995 UX)",
+    "elements": {
+     "a": 2.4,
+     "e": 0.214,
+     "i": 1.85,
+     "om": 183.0,
+     "w": 190.0,
+     "ma": 68.1
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 8 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0165-n002-c01": {
    "designation": "27040 (1998 RD62)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.23,
     "g": null,
@@ -2189,9 +2351,36 @@
     "JPL Horizons: 0 of 9 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0165-n005-c01": {
+   "designation": "2158 Tietjen (1933 OS)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.8,
+    "g": null,
+    "diameter_km": 22.658,
+    "diameter_sigma_km": 0.259,
+    "albedo": 0.066,
+    "albedo_sigma": 0.014,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2158 Tietjen (1933 OS)",
+    "elements": {
+     "a": 3.07,
+     "e": 0.18,
+     "i": 1.59,
+     "om": 187.0,
+     "w": 101.0,
+     "ma": 108.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 20 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0165-s013-c01": {
    "designation": "2883 Barabashov (1978 RG6)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.27,
     "g": null,
@@ -2216,9 +2405,36 @@
     "JPL Horizons: 0 of 24 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0165-s013-c02": {
+   "designation": "5605 Kushida (1993 DB)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.53,
+    "g": null,
+    "diameter_km": 5.215,
+    "diameter_sigma_km": 0.031,
+    "albedo": 0.359,
+    "albedo_sigma": 0.048,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "5605 Kushida (1993 DB)",
+    "elements": {
+     "a": 2.26,
+     "e": 0.106,
+     "i": 4.3,
+     "om": 10.3,
+     "w": 181.0,
+     "ma": 252.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 16 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0168-n002-c01": {
    "designation": "27040 (1998 RD62)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.23,
     "g": null,
@@ -2245,7 +2461,7 @@
   },
   "obj-sv-2025w292a-l0168-n005-c01": {
    "designation": "2158 Tietjen (1933 OS)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.8,
     "g": null,
@@ -2270,9 +2486,63 @@
     "JPL Horizons: 0 of 20 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0168-s001-c01": {
+   "designation": "3269 Vibert-Douglas (1981 EX16)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.92,
+    "g": null,
+    "diameter_km": 11.659,
+    "diameter_sigma_km": 0.249,
+    "albedo": 0.142,
+    "albedo_sigma": 0.034,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "3269 Vibert-Douglas (1981 EX16)",
+    "elements": {
+     "a": 2.79,
+     "e": 0.157,
+     "i": 17.2,
+     "om": 353.0,
+     "w": 44.5,
+     "ma": 35.3
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 14 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0168-s004-c01": {
+   "designation": "3269 Vibert-Douglas (1981 EX16)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.92,
+    "g": null,
+    "diameter_km": 11.659,
+    "diameter_sigma_km": 0.249,
+    "albedo": 0.142,
+    "albedo_sigma": 0.034,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "3269 Vibert-Douglas (1981 EX16)",
+    "elements": {
+     "a": 2.79,
+     "e": 0.157,
+     "i": 17.2,
+     "om": 353.0,
+     "w": 44.5,
+     "ma": 35.3
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 14 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0168-s013-c01": {
    "designation": "2883 Barabashov (1978 RG6)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.27,
     "g": null,
@@ -2297,9 +2567,63 @@
     "JPL Horizons: 0 of 24 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0171-s001-c01": {
+   "designation": "1686 De Sitter (1935 SR1)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.16,
+    "g": null,
+    "diameter_km": 29.661,
+    "diameter_sigma_km": 0.29,
+    "albedo": 0.088,
+    "albedo_sigma": 0.005,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "1686 De Sitter (1935 SR1)",
+    "elements": {
+     "a": 3.16,
+     "e": 0.158,
+     "i": 0.616,
+     "om": 6.32,
+     "w": 295.0,
+     "ma": 98.5
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 20 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0171-s004-c01": {
+   "designation": "1686 De Sitter (1935 SR1)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.16,
+    "g": null,
+    "diameter_km": 29.661,
+    "diameter_sigma_km": 0.29,
+    "albedo": 0.088,
+    "albedo_sigma": 0.005,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "1686 De Sitter (1935 SR1)",
+    "elements": {
+     "a": 3.16,
+     "e": 0.158,
+     "i": 0.616,
+     "om": 6.32,
+     "w": 295.0,
+     "ma": 98.5
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 20 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0177-s007-c01": {
    "designation": "2116 Mtskheta (1976 UM)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.53,
     "g": null,
@@ -2326,7 +2650,7 @@
   },
   "obj-sv-2025w292a-l0180-n008-c01": {
    "designation": "3490 Solc (1984 SV)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.64,
     "g": null,
@@ -2353,7 +2677,7 @@
   },
   "obj-sv-2025w292a-l0180-s007-c01": {
    "designation": "2116 Mtskheta (1976 UM)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.53,
     "g": null,
@@ -2380,7 +2704,7 @@
   },
   "obj-sv-2025w292a-l0183-n008-c01": {
    "designation": "1084 Tamariwa (1926 CC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.92,
     "g": null,
@@ -2407,7 +2731,7 @@
   },
   "obj-sv-2025w292a-l0183-s007-c01": {
    "designation": "3807 Pagels (1981 SE1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.16,
     "g": null,
@@ -2432,9 +2756,117 @@
     "JPL Horizons: 0 of 24 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0186-n002-c01": {
+   "designation": "4195 Esambaev (1982 SK8)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.74,
+    "g": null,
+    "diameter_km": null,
+    "diameter_sigma_km": null,
+    "albedo": null,
+    "albedo_sigma": null,
+    "diameter_ref": null,
+    "fullname": "4195 Esambaev (1982 SK8)",
+    "elements": {
+     "a": 2.83,
+     "e": 0.0668,
+     "i": 2.05,
+     "om": 178.0,
+     "w": 220.0,
+     "ma": 30.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 20 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0186-s013-c01": {
+   "designation": "2411 Zellner (1981 JK)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.79,
+    "g": null,
+    "diameter_km": 8.05,
+    "diameter_sigma_km": 0.08,
+    "albedo": 0.217,
+    "albedo_sigma": 0.034,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2411 Zellner (1981 JK)",
+    "elements": {
+     "a": 2.23,
+     "e": 0.0871,
+     "i": 1.62,
+     "om": 131.0,
+     "w": 129.0,
+     "ma": 177.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 10 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0189-s004-c01": {
+   "designation": "28919 (2000 QP27)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 14.64,
+    "g": null,
+    "diameter_km": 2.92,
+    "diameter_sigma_km": 0.135,
+    "albedo": 0.32,
+    "albedo_sigma": 0.04,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "28919 (2000 QP27)",
+    "elements": {
+     "a": 2.33,
+     "e": 0.214,
+     "i": 2.54,
+     "om": 158.0,
+     "w": 159.0,
+     "ma": 109.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 9 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0189-s004-c02": {
+   "designation": "2586 Matson (1980 LO)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.22,
+    "g": null,
+    "diameter_km": 6.523,
+    "diameter_sigma_km": 0.114,
+    "albedo": 0.287,
+    "albedo_sigma": 0.044,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2586 Matson (1980 LO)",
+    "elements": {
+     "a": 2.39,
+     "e": 0.0886,
+     "i": 4.36,
+     "om": 167.0,
+     "w": 153.0,
+     "ma": 114.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 15 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0192-n002-c01": {
    "designation": "4195 Esambaev (1982 SK8)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.74,
     "g": null,
@@ -2459,9 +2891,117 @@
     "JPL Horizons: 0 of 19 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0192-n008-c01": {
+   "designation": "21760 (1999 RM199)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 14.26,
+    "g": null,
+    "diameter_km": 9.121,
+    "diameter_sigma_km": 0.063,
+    "albedo": 0.039,
+    "albedo_sigma": 0.0,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "21760 (1999 RM199)",
+    "elements": {
+     "a": 2.4,
+     "e": 0.264,
+     "i": 10.8,
+     "om": 340.0,
+     "w": 360.0,
+     "ma": 89.1
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 10 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0192-s004-c01": {
+   "designation": "28919 (2000 QP27)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 14.64,
+    "g": null,
+    "diameter_km": 2.92,
+    "diameter_sigma_km": 0.135,
+    "albedo": 0.32,
+    "albedo_sigma": 0.04,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "28919 (2000 QP27)",
+    "elements": {
+     "a": 2.33,
+     "e": 0.214,
+     "i": 2.54,
+     "om": 158.0,
+     "w": 159.0,
+     "ma": 109.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 9 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0192-s004-c02": {
+   "designation": "2586 Matson (1980 LO)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.22,
+    "g": null,
+    "diameter_km": 6.523,
+    "diameter_sigma_km": 0.114,
+    "albedo": 0.287,
+    "albedo_sigma": 0.044,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "2586 Matson (1980 LO)",
+    "elements": {
+     "a": 2.39,
+     "e": 0.0886,
+     "i": 4.36,
+     "om": 167.0,
+     "w": 153.0,
+     "ma": 114.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 16 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0201-s010-c01": {
+   "designation": "9607 (1992 DS6)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.37,
+    "g": null,
+    "diameter_km": 9.224,
+    "diameter_sigma_km": 0.116,
+    "albedo": 0.131,
+    "albedo_sigma": 0.017,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "9607 (1992 DS6)",
+    "elements": {
+     "a": 2.73,
+     "e": 0.272,
+     "i": 8.31,
+     "om": 359.0,
+     "w": 295.0,
+     "ma": 105.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 14 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0201-s013-c01": {
    "designation": "2489 Suvorov (1975 NY)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.32,
     "g": null,
@@ -2486,9 +3026,36 @@
     "JPL Horizons: 0 of 21 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0204-s010-c01": {
+   "designation": "9607 (1992 DS6)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.37,
+    "g": null,
+    "diameter_km": 9.224,
+    "diameter_sigma_km": 0.116,
+    "albedo": 0.131,
+    "albedo_sigma": 0.017,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "9607 (1992 DS6)",
+    "elements": {
+     "a": 2.73,
+     "e": 0.272,
+     "i": 8.31,
+     "om": 359.0,
+     "w": 295.0,
+     "ma": 105.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 14 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0213-s007-c01": {
    "designation": "2859 Paganini (1978 RW1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.41,
     "g": null,
@@ -2513,9 +3080,63 @@
     "JPL Horizons: 0 of 14 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0213-s010-c01": {
+   "designation": "7043 Godart (1934 RB)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.28,
+    "g": null,
+    "diameter_km": 5.721,
+    "diameter_sigma_km": 0.136,
+    "albedo": 0.225,
+    "albedo_sigma": 0.042,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "7043 Godart (1934 RB)",
+    "elements": {
+     "a": 2.24,
+     "e": 0.186,
+     "i": 6.0,
+     "om": 163.0,
+     "w": 130.0,
+     "ma": 136.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 18 epochs"
+   ]
+  },
+  "obj-sv-2025w292a-l0216-s004-c01": {
+   "designation": "11933 Himuka (1993 ES)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 13.07,
+    "g": null,
+    "diameter_km": 9.217,
+    "diameter_sigma_km": 0.099,
+    "albedo": 0.208,
+    "albedo_sigma": 0.027,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "11933 Himuka (1993 ES)",
+    "elements": {
+     "a": 2.67,
+     "e": 0.192,
+     "i": 11.4,
+     "om": 1.81,
+     "w": 226.0,
+     "ma": 190.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 7 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0216-s007-c01": {
    "designation": "2859 Paganini (1978 RW1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.41,
     "g": null,
@@ -2542,7 +3163,7 @@
   },
   "obj-sv-2025w292a-l0216-s010-c01": {
    "designation": "7043 Godart (1934 RB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.28,
     "g": null,
@@ -2567,9 +3188,36 @@
     "JPL Horizons: 0 of 18 epochs"
    ]
   },
+  "obj-sv-2025w292a-l0222-s013-c01": {
+   "designation": "3327 Campins (1985 PW)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.89,
+    "g": null,
+    "diameter_km": 20.773,
+    "diameter_sigma_km": 4.614,
+    "albedo": 0.078,
+    "albedo_sigma": 0.06,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "3327 Campins (1985 PW)",
+    "elements": {
+     "a": 3.18,
+     "e": 0.0903,
+     "i": 1.56,
+     "om": 69.7,
+     "w": 242.0,
+     "ma": 99.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 13 epochs"
+   ]
+  },
   "obj-sv-2025w292a-l0222-s013-c02": {
    "designation": "5672 Libby (1986 EE2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.22,
     "g": null,
@@ -2596,7 +3244,7 @@
   },
   "obj-sv-2025w322d-l2487-n020-c01": {
    "designation": "4436 Ortizmoreno (1983 EX)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.47,
     "g": null,
@@ -2623,7 +3271,7 @@
   },
   "obj-sv-2025w332c-l2454-n005-c01": {
    "designation": "764 Gedania (A913 SF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.67,
     "g": null,
@@ -2650,7 +3298,7 @@
   },
   "obj-sv-2025w332c-l2490-n020-c01": {
    "designation": "27117 (1998 WQ3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.43,
     "g": null,
@@ -2677,7 +3325,7 @@
   },
   "obj-sv-2025w332c-l2493-s010-c01": {
    "designation": "7505 Furusho (1997 AM2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.36,
     "g": null,
@@ -2702,9 +3350,9 @@
     "JPL Horizons: 0 of 8 epochs"
    ]
   },
-  "obj-sv-2025w372a-l2853-s037-c01": {
+  "obj-sv-2025w372a-l2856-s037-c01": {
    "designation": "917 Lyka (A915 RR)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.75,
     "g": null,
@@ -2729,36 +3377,36 @@
     "JPL Horizons: 0 of 11 epochs"
    ]
   },
-  "obj-sv-2025w372a-l2856-s037-c01": {
-   "designation": "917 Lyka (A915 RR)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+  "obj-sv-2025w412b-l1062-s007-c01": {
+   "designation": "1652 Herge (1953 PA)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
-    "h": 11.75,
+    "h": 12.34,
     "g": null,
-    "diameter_km": 34.878,
-    "diameter_sigma_km": 0.184,
-    "albedo": 0.056,
-    "albedo_sigma": 0.008,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "917 Lyka (A915 RR)",
+    "diameter_km": 8.689,
+    "diameter_sigma_km": 0.081,
+    "albedo": 0.137,
+    "albedo_sigma": 0.028,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+    "fullname": "1652 Herge (1953 PA)",
     "elements": {
-     "a": 2.38,
-     "e": 0.2,
-     "i": 5.12,
-     "om": 343.0,
-     "w": 360.0,
-     "ma": 52.2
+     "a": 2.25,
+     "e": 0.149,
+     "i": 3.2,
+     "om": 252.0,
+     "w": 13.3,
+     "ma": 248.0
     },
     "epoch_jd": 2461200.5
    },
    "horizons": null,
    "errors": [
-    "JPL Horizons: 0 of 11 epochs"
+    "JPL Horizons: 0 of 9 epochs"
    ]
   },
   "obj-sv-2025w412b-l1077-n017-c01": {
    "designation": "2678 Aavasaksa (1938 DF1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.69,
     "g": null,
@@ -2783,9 +3431,36 @@
     "JPL Horizons: 0 of 13 epochs"
    ]
   },
+  "obj-sv-2025w412b-l1095-s004-c01": {
+   "designation": "951 Gaspra (A916 OJ)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.49,
+    "g": null,
+    "diameter_km": 12.2,
+    "diameter_sigma_km": null,
+    "albedo": 0.246,
+    "albedo_sigma": 0.032,
+    "diameter_ref": null,
+    "fullname": "951 Gaspra (A916 OJ)",
+    "elements": {
+     "a": 2.21,
+     "e": 0.174,
+     "i": 4.1,
+     "om": 253.0,
+     "w": 130.0,
+     "ma": 113.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 16 epochs"
+   ]
+  },
   "obj-sv-2025w412b-l1101-n008-c01": {
    "designation": "2133 Franceswright (1976 WB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.41,
     "g": null,
@@ -2812,7 +3487,7 @@
   },
   "obj-sv-2025w412b-l1104-n008-c01": {
    "designation": "2133 Franceswright (1976 WB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.41,
     "g": null,
@@ -2839,7 +3514,7 @@
   },
   "obj-sv-2025w412b-l1107-n005-c01": {
    "designation": "1128 Astrid (1929 EB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.1,
     "g": null,
@@ -2864,9 +3539,36 @@
     "JPL Horizons: 0 of 12 epochs"
    ]
   },
+  "obj-sv-2025w412b-l1110-n020-c01": {
+   "designation": "1029 La Plata (A924 HB)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 10.99,
+    "g": null,
+    "diameter_km": 20.78,
+    "diameter_sigma_km": 1.9,
+    "albedo": 0.1819,
+    "albedo_sigma": 0.039,
+    "diameter_ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0",
+    "fullname": "1029 La Plata (A924 HB)",
+    "elements": {
+     "a": 2.89,
+     "e": 0.0261,
+     "i": 2.42,
+     "om": 29.7,
+     "w": 135.0,
+     "ma": 337.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 11 epochs"
+   ]
+  },
   "obj-sv-2025w412b-l1131-n017-c01": {
    "designation": "786 Bredichina (A914 HD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.87,
     "g": null,
@@ -2891,9 +3593,63 @@
     "JPL Horizons: 0 of 20 epochs"
    ]
   },
+  "obj-sv-2025w412b-l1137-s007-c02": {
+   "designation": "431 Nephele (A897 YB)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 9.08,
+    "g": null,
+    "diameter_km": 101.9,
+    "diameter_sigma_km": 0.988,
+    "albedo": 0.055,
+    "albedo_sigma": 0.005,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+    "fullname": "431 Nephele (A897 YB)",
+    "elements": {
+     "a": 3.15,
+     "e": 0.173,
+     "i": 1.83,
+     "om": 117.0,
+     "w": 219.0,
+     "ma": 145.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 25 epochs"
+   ]
+  },
+  "obj-sv-2025w412b-l1140-s007-c02": {
+   "designation": "431 Nephele (A897 YB)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 9.08,
+    "g": null,
+    "diameter_km": 101.9,
+    "diameter_sigma_km": 0.988,
+    "albedo": 0.055,
+    "albedo_sigma": 0.005,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+    "fullname": "431 Nephele (A897 YB)",
+    "elements": {
+     "a": 3.15,
+     "e": 0.173,
+     "i": 1.83,
+     "om": 117.0,
+     "w": 219.0,
+     "ma": 145.0
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 25 epochs"
+   ]
+  },
   "obj-sv-2025w412b-l1143-n017-c01": {
    "designation": "7225 Huntress (1983 BH)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.26,
     "g": null,
@@ -2920,7 +3676,7 @@
   },
   "obj-sv-2025w412b-l1149-n008-c01": {
    "designation": "1667 Pels (1930 SY)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.97,
     "g": null,
@@ -2947,7 +3703,7 @@
   },
   "obj-sv-2025w412b-l1149-n011-c01": {
    "designation": "1667 Pels (1930 SY)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.97,
     "g": null,
@@ -2974,7 +3730,7 @@
   },
   "obj-sv-2025w412b-l3036-s007-c01": {
    "designation": "62 Erato (A860 RD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.89,
     "g": null,
@@ -3001,7 +3757,7 @@
   },
   "obj-sv-2025w421a-l3057-s007-c01": {
    "designation": "2011 Veteraniya (1970 QB1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.39,
     "g": null,
@@ -3028,7 +3784,7 @@
   },
   "obj-sv-2025w421a-l3108-s007-c01": {
    "designation": "53 Kalypso (A858 GA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.88,
     "g": null,
@@ -3055,7 +3811,7 @@
   },
   "obj-sv-2025w492a-l1638-n020-c01": {
    "designation": "2004 Lexell (1973 SV2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.92,
     "g": null,
@@ -3080,36 +3836,9 @@
     "JPL Horizons: 0 of 12 epochs"
    ]
   },
-  "obj-sv-2025w492a-l1641-n002-c01": {
-   "designation": "1430 Somalia (1937 NK)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 12.16,
-    "g": null,
-    "diameter_km": 9.352,
-    "diameter_sigma_km": 0.133,
-    "albedo": 0.153,
-    "albedo_sigma": 0.032,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "1430 Somalia (1937 NK)",
-    "elements": {
-     "a": 2.56,
-     "e": 0.2,
-     "i": 3.29,
-     "om": 327.0,
-     "w": 352.0,
-     "ma": 234.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 7 epochs"
-   ]
-  },
   "obj-sv-2025w492a-l1641-s013-c01": {
    "designation": "3719 Karamzin (1976 YO1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.9,
     "g": null,
@@ -3134,9 +3863,36 @@
     "JPL Horizons: 0 of 7 epochs"
    ]
   },
+  "obj-sv-2025w492a-l1656-s013-c01": {
+   "designation": "10727 Akitsushima (1987 DN)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 12.77,
+    "g": null,
+    "diameter_km": 10.138,
+    "diameter_sigma_km": 0.124,
+    "albedo": 0.199,
+    "albedo_sigma": 0.028,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+    "fullname": "10727 Akitsushima (1987 DN)",
+    "elements": {
+     "a": 3.13,
+     "e": 0.0206,
+     "i": 5.72,
+     "om": 314.0,
+     "w": 195.0,
+     "ma": 30.6
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 12 epochs"
+   ]
+  },
   "obj-sv-2025w492a-l1662-n002-c01": {
    "designation": "1737 Severny (1966 TJ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.22,
     "g": null,
@@ -3163,7 +3919,7 @@
   },
   "obj-sv-2025w492a-l1662-s010-c01": {
    "designation": "14677 (1999 XZ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.35,
     "g": null,
@@ -3190,7 +3946,7 @@
   },
   "obj-sv-2025w492a-l1665-n002-c01": {
    "designation": "9952 (1991 AK)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.19,
     "g": null,
@@ -3217,7 +3973,7 @@
   },
   "obj-sv-2025w492a-l1671-n005-c01": {
    "designation": "6258 Rodin (3070 T-2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.77,
     "g": null,
@@ -3244,7 +4000,7 @@
   },
   "obj-sv-2025w492a-l1674-s013-c01": {
    "designation": "7754 Gopalan (1989 TT11)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.76,
     "g": null,
@@ -3271,7 +4027,7 @@
   },
   "obj-sv-2025w492a-l1677-n011-c01": {
    "designation": "659 Nestor (A908 FE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.69,
     "g": null,
@@ -3298,7 +4054,7 @@
   },
   "obj-sv-2025w521a-l1788-n002-c01": {
    "designation": "2509 Chukotka (1977 NG)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.93,
     "g": null,
@@ -3325,7 +4081,7 @@
   },
   "obj-sv-2025w521a-l1791-n026-c01": {
    "designation": "5193 Tanakawataru (1992 ET)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.07,
     "g": null,
@@ -3352,7 +4108,7 @@
   },
   "obj-sv-2025w521a-l1791-n026-c02": {
    "designation": "3662 Dezhnev (1980 RU2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.23,
     "g": null,
@@ -3377,36 +4133,9 @@
     "JPL Horizons: 0 of 18 epochs"
    ]
   },
-  "obj-sv-2025w521a-l1806-n005-c01": {
-   "designation": "3738 Ots (1977 QA1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 12.99,
-    "g": null,
-    "diameter_km": 7.036,
-    "diameter_sigma_km": 0.09,
-    "albedo": 0.271,
-    "albedo_sigma": 0.049,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "3738 Ots (1977 QA1)",
-    "elements": {
-     "a": 2.22,
-     "e": 0.168,
-     "i": 1.25,
-     "om": 357.0,
-     "w": 270.0,
-     "ma": 317.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 8 epochs"
-   ]
-  },
   "obj-sv-2025w521a-l1806-n017-c01": {
    "designation": "327 Columbia (A892 FE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.02,
     "g": null,
@@ -3433,7 +4162,7 @@
   },
   "obj-sv-2025w521a-l1809-n017-c01": {
    "designation": "327 Columbia (A892 FE)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.02,
     "g": null,
@@ -3460,7 +4189,7 @@
   },
   "obj-sv-2026w051a-l2157-n005-c01": {
    "designation": "495 Eulalia (A902 UL)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.17,
     "g": null,
@@ -3485,36 +4214,9 @@
     "JPL Horizons: 0 of 12 epochs"
    ]
   },
-  "obj-sv-2026w051a-l2157-n023-c01": {
-   "designation": "253 Mathilde (A885 VA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 10.35,
-    "g": null,
-    "diameter_km": 52.8,
-    "diameter_sigma_km": null,
-    "albedo": 0.0436,
-    "albedo_sigma": 0.004,
-    "diameter_ref": null,
-    "fullname": "253 Mathilde (A885 VA)",
-    "elements": {
-     "a": 2.65,
-     "e": 0.264,
-     "i": 6.74,
-     "om": 179.0,
-     "w": 158.0,
-     "ma": 274.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 18 epochs"
-   ]
-  },
   "obj-sv-2026w051a-l2157-s007-c01": {
    "designation": "77 Frigga (A862 VA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.58,
     "g": 0.16,
@@ -3541,7 +4243,7 @@
   },
   "obj-sv-2026w051a-l2160-n005-c01": {
    "designation": "495 Eulalia (A902 UL)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.17,
     "g": null,
@@ -3568,7 +4270,7 @@
   },
   "obj-sv-2026w051a-l2163-s007-c01": {
    "designation": "77 Frigga (A862 VA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.58,
     "g": 0.16,
@@ -3595,7 +4297,7 @@
   },
   "obj-sv-2026w051a-l2166-n002-c01": {
    "designation": "10084 Rossparker (1990 QC5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.23,
     "g": null,
@@ -3620,36 +4322,9 @@
     "JPL Horizons: 0 of 7 epochs"
    ]
   },
-  "obj-sv-2026w051a-l2166-n026-c01": {
-   "designation": "4839 Daisetsuzan (1989 QG)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 13.24,
-    "g": null,
-    "diameter_km": 8.141,
-    "diameter_sigma_km": 0.099,
-    "albedo": 0.202,
-    "albedo_sigma": 0.032,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
-    "fullname": "4839 Daisetsuzan (1989 QG)",
-    "elements": {
-     "a": 2.43,
-     "e": 0.0714,
-     "i": 7.58,
-     "om": 177.0,
-     "w": 180.0,
-     "ma": 234.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 6 epochs"
-   ]
-  },
   "obj-sv-2026w051a-l2169-n023-c01": {
    "designation": "240 Vanadis (A884 QB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.13,
     "g": null,
@@ -3674,9 +4349,36 @@
     "JPL Horizons: 0 of 22 epochs"
    ]
   },
+  "obj-sv-2026w051a-l2175-n002-c01": {
+   "designation": "4716 Urey (1989 UL5)",
+   "fetched_utc": "2026-11-11T03:44:15Z",
+   "sbdb": {
+    "h": 11.69,
+    "g": null,
+    "diameter_km": 15.409,
+    "diameter_sigma_km": 0.328,
+    "albedo": 0.155,
+    "albedo_sigma": 0.041,
+    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+    "fullname": "4716 Urey (1989 UL5)",
+    "elements": {
+     "a": 3.19,
+     "e": 0.128,
+     "i": 10.1,
+     "om": 20.0,
+     "w": 99.8,
+     "ma": 87.8
+    },
+    "epoch_jd": 2461200.5
+   },
+   "horizons": null,
+   "errors": [
+    "JPL Horizons: 0 of 10 epochs"
+   ]
+  },
   "obj-sv-2026w052a-l0384-s001-c01": {
    "designation": "3545 Gaffey (1981 WK2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.33,
     "g": null,
@@ -3703,7 +4405,7 @@
   },
   "obj-sv-2026w052a-l0384-s004-c01": {
    "designation": "3545 Gaffey (1981 WK2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.33,
     "g": null,
@@ -3730,7 +4432,7 @@
   },
   "obj-sv-2026w052a-l0390-s013-c01": {
    "designation": "2674 Pandarus (1982 BC3)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.09,
     "g": null,
@@ -3757,7 +4459,7 @@
   },
   "obj-sv-2026w052a-l0429-s010-c01": {
    "designation": "2417 McVittie (1964 CD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.3,
     "g": null,
@@ -3784,7 +4486,7 @@
   },
   "obj-sv-2026w052a-l0441-s001-c01": {
    "designation": "1450 Raimonda (1938 DP)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.51,
     "g": null,
@@ -3811,7 +4513,7 @@
   },
   "obj-sv-2026w052a-l0441-s004-c01": {
    "designation": "1450 Raimonda (1938 DP)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.51,
     "g": null,
@@ -3838,7 +4540,7 @@
   },
   "obj-sv-2026w052a-l0474-s007-c01": {
    "designation": "423 Diotima (A896 XA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 7.39,
     "g": null,
@@ -3865,7 +4567,7 @@
   },
   "obj-sv-2026w052a-l0474-s013-c02": {
    "designation": "10222 Klotz (1997 UV10)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.07,
     "g": null,
@@ -3892,7 +4594,7 @@
   },
   "obj-sv-2026w092a-l2418-n008-c01": {
    "designation": "3311 Podobed (1976 QM1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.37,
     "g": null,
@@ -3917,36 +4619,9 @@
     "JPL Horizons: 0 of 15 epochs"
    ]
   },
-  "obj-sv-2026w101a-l0756-n011-c01": {
-   "designation": "371 Bohemia (A893 OA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
-   "sbdb": {
-    "h": 8.74,
-    "g": null,
-    "diameter_km": 52.976,
-    "diameter_sigma_km": 0.622,
-    "albedo": 0.234,
-    "albedo_sigma": 0.028,
-    "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
-    "fullname": "371 Bohemia (A893 OA)",
-    "elements": {
-     "a": 2.73,
-     "e": 0.0613,
-     "i": 7.4,
-     "om": 283.0,
-     "w": 343.0,
-     "ma": 212.0
-    },
-    "epoch_jd": 2461200.5
-   },
-   "horizons": null,
-   "errors": [
-    "JPL Horizons: 0 of 19 epochs"
-   ]
-  },
   "obj-sv-2026w101a-l0765-n020-c01": {
    "designation": "435 Ella (A898 RA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.46,
     "g": null,
@@ -3973,7 +4648,7 @@
   },
   "obj-sv-2026w101a-l0789-n014-c01": {
    "designation": "2032 Ethel (1970 OH)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.47,
     "g": null,
@@ -4000,7 +4675,7 @@
   },
   "obj-sv-2026w132a-l1011-n005-c01": {
    "designation": "4505 Okamura (1990 DV1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.44,
     "g": null,
@@ -4027,7 +4702,7 @@
   },
   "obj-sv-2026w132a-l1038-n008-c01": {
    "designation": "1128 Astrid (1929 EB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.1,
     "g": null,
@@ -4054,7 +4729,7 @@
   },
   "obj-sv-2026w132a-l1038-n011-c01": {
    "designation": "1128 Astrid (1929 EB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.1,
     "g": null,
@@ -4081,7 +4756,7 @@
   },
   "obj-sv-2026w132a-l1050-n002-c01": {
    "designation": "431 Nephele (A897 YB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 9.08,
     "g": null,
@@ -4108,7 +4783,7 @@
   },
   "obj-sv-2026w172a-l2949-n002-c01": {
    "designation": "847 Agnia (A915 RP)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.09,
     "g": null,
@@ -4135,7 +4810,7 @@
   },
   "obj-sv-2026w191a-l1458-n008-c01": {
    "designation": "1418 Fayeta (A903 SJ)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.13,
     "g": null,
@@ -4162,7 +4837,7 @@
   },
   "obj-sv-2026w191a-l1464-n023-c01": {
    "designation": "2806 Graz (1953 GG)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.41,
     "g": null,
@@ -4189,7 +4864,7 @@
   },
   "obj-sv-2026w191a-l1473-s025-c01": {
    "designation": "3694 Sharon (1984 SH5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.57,
     "g": null,
@@ -4216,7 +4891,7 @@
   },
   "obj-sv-2026w191a-l1482-s001-c01": {
    "designation": "865 Zubaida (A917 CH)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.66,
     "g": null,
@@ -4243,7 +4918,7 @@
   },
   "obj-sv-2026w192a-l1458-n038-c01": {
    "designation": "2066 Palala (1934 LB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.91,
     "g": null,
@@ -4270,7 +4945,7 @@
   },
   "obj-sv-2026w192a-l1458-n038-c02": {
    "designation": "2656 Evenkia (1979 HD5)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.53,
     "g": null,
@@ -4297,7 +4972,7 @@
   },
   "obj-sv-2026w192a-l1467-n038-c01": {
    "designation": "40724 (1999 SY8)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.71,
     "g": null,
@@ -4324,7 +4999,7 @@
   },
   "obj-sv-2026w192a-l1470-n038-c01": {
    "designation": "40724 (1999 SY8)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.71,
     "g": null,
@@ -4351,7 +5026,7 @@
   },
   "obj-sv-2026w192a-l1473-n032-c01": {
    "designation": "2571 Geisei (1981 UC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.23,
     "g": null,
@@ -4378,7 +5053,7 @@
   },
   "obj-sv-2026w192a-l1494-n035-c01": {
    "designation": "4610 Kajov (1989 FO)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.22,
     "g": null,
@@ -4405,7 +5080,7 @@
   },
   "obj-sv-2026w242b-l3513-s016-c01": {
    "designation": "1623 Vivian (1948 PL)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.46,
     "g": null,
@@ -4432,7 +5107,7 @@
   },
   "obj-sv-2026w242b-l3513-s022-c01": {
    "designation": "113 Amalthea (A871 EA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.53,
     "g": 0.35,
@@ -4459,7 +5134,7 @@
   },
   "obj-sv-2026w242b-l3534-n017-c01": {
    "designation": "8079 Bernardlovell (1986 XF1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.93,
     "g": null,
@@ -4486,7 +5161,7 @@
   },
   "obj-sv-2026w242b-l3537-n011-c01": {
    "designation": "440 Theodora (A898 TB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.54,
     "g": null,
@@ -4513,7 +5188,7 @@
   },
   "obj-sv-2026w242b-l3537-s019-c01": {
    "designation": "3850 Peltier (1986 TK2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.65,
     "g": null,
@@ -4540,7 +5215,7 @@
   },
   "obj-sv-2026w242b-l3540-n011-c01": {
    "designation": "2030 Belyaev (1969 TA2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.55,
     "g": null,
@@ -4567,7 +5242,7 @@
   },
   "obj-sv-2026w242b-l3540-n011-c02": {
    "designation": "440 Theodora (A898 TB)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.54,
     "g": null,
@@ -4594,7 +5269,7 @@
   },
   "obj-sv-2026w242b-l3543-n017-c01": {
    "designation": "570 Kythera (A905 OF)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.88,
     "g": null,
@@ -4621,7 +5296,7 @@
   },
   "obj-sv-2026w292a-l0231-n026-c01": {
    "designation": "4445 Jimstratton (1985 TC)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.97,
     "g": null,
@@ -4648,7 +5323,7 @@
   },
   "obj-sv-2026w292a-l0234-n026-c01": {
    "designation": "6978 Hironaka (1993 RD)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.66,
     "g": null,
@@ -4675,7 +5350,7 @@
   },
   "obj-sv-2026w292a-l0237-n029-c01": {
    "designation": "3095 Omarkhayyam (1980 RT2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.51,
     "g": null,
@@ -4702,7 +5377,7 @@
   },
   "obj-sv-2026w292a-l0240-n020-c01": {
    "designation": "36342 (2000 NX15)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 15.5,
     "g": null,
@@ -4729,7 +5404,7 @@
   },
   "obj-sv-2026w292a-l0240-n029-c01": {
    "designation": "3095 Omarkhayyam (1980 RT2)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 11.51,
     "g": null,
@@ -4756,7 +5431,7 @@
   },
   "obj-sv-2026w292a-l0243-n026-c01": {
    "designation": "3073 Kursk (1979 SW11)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.75,
     "g": null,
@@ -4783,7 +5458,7 @@
   },
   "obj-sv-2026w292a-l0246-n023-c01": {
    "designation": "7104 Manyousyu (1977 DU)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.31,
     "g": null,
@@ -4810,7 +5485,7 @@
   },
   "obj-sv-2026w292a-l0246-n029-c01": {
    "designation": "101 Helena (A868 PA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 8.39,
     "g": 0.35,
@@ -4837,7 +5512,7 @@
   },
   "obj-sv-2026w292a-l0246-n029-c02": {
    "designation": "295 Theresia (A890 QA)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 10.04,
     "g": null,
@@ -4864,7 +5539,7 @@
   },
   "obj-sv-2026w292a-l0246-n029-c03": {
    "designation": "15376 Martak (1997 CT1)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 12.64,
     "g": null,
@@ -4891,7 +5566,7 @@
   },
   "obj-sv-2026w292a-l2307-n002-c01": {
    "designation": "13576 Gotoyoshi (1993 HW)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 14.24,
     "g": null,
@@ -4918,7 +5593,7 @@
   },
   "obj-sv-2026w292a-l2313-n002-c01": {
    "designation": "8151 Andranada (1986 PK6)",
-   "fetched_utc": "2026-11-05T04:06:40Z",
+   "fetched_utc": "2026-11-11T03:44:15Z",
    "sbdb": {
     "h": 13.61,
     "g": null,

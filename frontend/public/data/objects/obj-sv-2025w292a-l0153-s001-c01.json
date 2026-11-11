@@ -1455,7 +1455,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "5987 Liviogratton (1975 LQ)",
+      "h": 13.9,
+      "g": null,
+      "diameter_km": 4.669,
+      "diameter_sigma_km": 0.101,
+      "albedo": 0.204,
+      "albedo_sigma": 0.048,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=5987"
+    },
     "caveats": []
   }
 }

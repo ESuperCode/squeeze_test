@@ -2,71 +2,11 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "object_id": "obj-sv-2025w231c-l3417-s010-c01",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "orbit_epoch_mjd": 60830.357332,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 329.75869,
-      "dec_deg": -6.51773,
-      "sigma_major_arcsec": 317411.2,
-      "sigma_minor_arcsec": 48905.2,
-      "sigma_pa_deg": 77.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 328.2554,
-      "dec_deg": -8.2534,
-      "sigma_major_arcsec": 310371.5,
-      "sigma_minor_arcsec": 49232.4,
-      "sigma_pa_deg": 77.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 328.16947,
-      "dec_deg": -8.19858,
-      "sigma_major_arcsec": 309816.5,
-      "sigma_minor_arcsec": 48784.1,
-      "sigma_pa_deg": 77.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 328.08458,
-      "dec_deg": -8.46705,
-      "sigma_major_arcsec": 309075.1,
-      "sigma_minor_arcsec": 48813.1,
-      "sigma_pa_deg": 77.2,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 328.06262,
-      "dec_deg": -8.50862,
-      "sigma_major_arcsec": 308421.9,
-      "sigma_minor_arcsec": 48566.1,
-      "sigma_pa_deg": 77.2,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 328.02473,
-      "dec_deg": -8.57519,
-      "sigma_major_arcsec": 307766.4,
-      "sigma_minor_arcsec": 48368.5,
-      "sigma_pa_deg": 77.1,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -616,7 +556,67 @@
       "sigma_minor_arcsec": 44160.0,
       "sigma_pa_deg": 75.7,
       "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 338.07723,
+      "dec_deg": -6.83408,
+      "sigma_major_arcsec": 273366.4,
+      "sigma_minor_arcsec": 44129.6,
+      "sigma_pa_deg": 75.7,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 338.35286,
+      "dec_deg": -6.7712,
+      "sigma_major_arcsec": 272808.7,
+      "sigma_minor_arcsec": 44100.3,
+      "sigma_pa_deg": 75.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 338.61055,
+      "dec_deg": -6.75355,
+      "sigma_major_arcsec": 272268.5,
+      "sigma_minor_arcsec": 44150.2,
+      "sigma_pa_deg": 75.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 338.89955,
+      "dec_deg": -6.65165,
+      "sigma_major_arcsec": 271712.5,
+      "sigma_minor_arcsec": 44045.3,
+      "sigma_pa_deg": 75.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 339.22901,
+      "dec_deg": -6.52859,
+      "sigma_major_arcsec": 271138.0,
+      "sigma_minor_arcsec": 43932.7,
+      "sigma_pa_deg": 75.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 339.43606,
+      "dec_deg": -6.5539,
+      "sigma_major_arcsec": 270647.0,
+      "sigma_minor_arcsec": 44017.2,
+      "sigma_pa_deg": 75.6,
+      "vmag_estimate": null
     }
   ],
-  "note_plain": "The orbit comes from 11 hours of observations ending June 2025, so where it is now is uncertain by about 88 degrees: it needs new observations to be found again."
+  "note_plain": "The orbit comes from 11 hours of observations ending June 2025, so where it is now is uncertain by about 86 degrees: it needs new observations to be found again."
 }

@@ -954,7 +954,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "1652 Herge (1953 PA)",
+      "h": 12.34,
+      "g": null,
+      "diameter_km": 8.689,
+      "diameter_sigma_km": 0.081,
+      "albedo": 0.137,
+      "albedo_sigma": 0.028,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=1652"
+    },
     "caveats": []
   }
 }

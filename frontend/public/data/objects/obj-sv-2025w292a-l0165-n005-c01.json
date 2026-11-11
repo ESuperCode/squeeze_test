@@ -1865,7 +1865,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "2158 Tietjen (1933 OS)",
+      "h": 11.8,
+      "g": null,
+      "diameter_km": 22.658,
+      "diameter_sigma_km": 0.259,
+      "albedo": 0.066,
+      "albedo_sigma": 0.014,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2158"
+    },
     "caveats": []
   }
 }

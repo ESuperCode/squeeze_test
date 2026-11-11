@@ -1871,7 +1871,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "1686 De Sitter (1935 SR1)",
+      "h": 11.16,
+      "g": null,
+      "diameter_km": 29.661,
+      "diameter_sigma_km": 0.29,
+      "albedo": 0.088,
+      "albedo_sigma": 0.005,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=1686"
+    },
     "caveats": []
   }
 }

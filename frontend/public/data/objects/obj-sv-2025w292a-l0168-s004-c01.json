@@ -1369,7 +1369,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "3269 Vibert-Douglas (1981 EX16)",
+      "h": 12.92,
+      "g": null,
+      "diameter_km": 11.659,
+      "diameter_sigma_km": 0.249,
+      "albedo": 0.142,
+      "albedo_sigma": 0.034,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3269"
+    },
     "caveats": []
   }
 }

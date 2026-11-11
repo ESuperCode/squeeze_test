@@ -2,71 +2,11 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "object_id": "obj-sv-2026w191a-l1464-n023-c01",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "orbit_epoch_mjd": 61164.974616,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 216.80617,
-      "dec_deg": -12.79242,
-      "sigma_major_arcsec": 38364.7,
-      "sigma_minor_arcsec": 1768.9,
-      "sigma_pa_deg": 109.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 217.27646,
-      "dec_deg": -12.9458,
-      "sigma_major_arcsec": 38677.3,
-      "sigma_minor_arcsec": 1790.7,
-      "sigma_pa_deg": 109.2,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 217.74814,
-      "dec_deg": -13.09846,
-      "sigma_major_arcsec": 38992.0,
-      "sigma_minor_arcsec": 1813.9,
-      "sigma_pa_deg": 109.0,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 218.22121,
-      "dec_deg": -13.25039,
-      "sigma_major_arcsec": 39309.4,
-      "sigma_minor_arcsec": 1838.4,
-      "sigma_pa_deg": 108.9,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 218.69567,
-      "dec_deg": -13.40157,
-      "sigma_major_arcsec": 39629.8,
-      "sigma_minor_arcsec": 1864.2,
-      "sigma_pa_deg": 108.8,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 219.17153,
-      "dec_deg": -13.55199,
-      "sigma_major_arcsec": 39953.5,
-      "sigma_minor_arcsec": 1891.2,
-      "sigma_pa_deg": 108.7,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -616,7 +556,67 @@
       "sigma_minor_arcsec": 6076.6,
       "sigma_pa_deg": 100.1,
       "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 246.65496,
+      "dec_deg": -20.04465,
+      "sigma_major_arcsec": 65152.0,
+      "sigma_minor_arcsec": 6249.8,
+      "sigma_pa_deg": 99.9,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 246.99631,
+      "dec_deg": -20.09708,
+      "sigma_major_arcsec": 66301.5,
+      "sigma_minor_arcsec": 6466.4,
+      "sigma_pa_deg": 99.7,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 247.63018,
+      "dec_deg": -20.18501,
+      "sigma_major_arcsec": 66394.1,
+      "sigma_minor_arcsec": 6612.7,
+      "sigma_pa_deg": 99.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 248.1197,
+      "dec_deg": -20.25312,
+      "sigma_major_arcsec": 67056.6,
+      "sigma_minor_arcsec": 6800.8,
+      "sigma_pa_deg": 99.2,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 248.61043,
+      "dec_deg": -20.31987,
+      "sigma_major_arcsec": 67746.6,
+      "sigma_minor_arcsec": 6992.4,
+      "sigma_pa_deg": 98.9,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 249.10228,
+      "dec_deg": -20.38527,
+      "sigma_major_arcsec": 68463.8,
+      "sigma_minor_arcsec": 7187.0,
+      "sigma_pa_deg": 98.7,
+      "vmag_estimate": null
     }
   ],
-  "note_plain": "The orbit comes from 31 hours of observations ending May 2026, so where it is now is uncertain by about 18 degrees: it needs new observations to be found again."
+  "note_plain": "The orbit comes from 31 hours of observations ending May 2026, so where it is now is uncertain by about 19 degrees: it needs new observations to be found again."
 }

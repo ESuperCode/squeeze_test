@@ -2,71 +2,11 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "object_id": "obj-sv-2025w212c-l3372-s004-c01",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "orbit_epoch_mjd": 60819.074297,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 259.18031,
-      "dec_deg": -19.24134,
-      "sigma_major_arcsec": 305682.4,
-      "sigma_minor_arcsec": 39987.8,
-      "sigma_pa_deg": 90.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 260.88984,
-      "dec_deg": -19.59517,
-      "sigma_major_arcsec": 304277.1,
-      "sigma_minor_arcsec": 40034.0,
-      "sigma_pa_deg": 90.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 259.97019,
-      "dec_deg": -19.47047,
-      "sigma_major_arcsec": 304259.0,
-      "sigma_minor_arcsec": 39944.6,
-      "sigma_pa_deg": 90.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 259.9048,
-      "dec_deg": -20.17064,
-      "sigma_major_arcsec": 302268.6,
-      "sigma_minor_arcsec": 40590.2,
-      "sigma_pa_deg": 90.6,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 259.34209,
-      "dec_deg": -20.2213,
-      "sigma_major_arcsec": 306676.1,
-      "sigma_minor_arcsec": 40215.7,
-      "sigma_pa_deg": 90.8,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 254.55586,
-      "dec_deg": -20.18094,
-      "sigma_major_arcsec": 312445.1,
-      "sigma_minor_arcsec": 40149.7,
-      "sigma_pa_deg": 91.2,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -616,7 +556,67 @@
       "sigma_minor_arcsec": 38508.0,
       "sigma_pa_deg": 89.2,
       "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 296.78806,
+      "dec_deg": -15.35442,
+      "sigma_major_arcsec": 278660.4,
+      "sigma_minor_arcsec": 38309.9,
+      "sigma_pa_deg": 89.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 297.07926,
+      "dec_deg": -15.29173,
+      "sigma_major_arcsec": 278499.2,
+      "sigma_minor_arcsec": 38401.4,
+      "sigma_pa_deg": 89.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 297.73347,
+      "dec_deg": -14.97426,
+      "sigma_major_arcsec": 278668.0,
+      "sigma_minor_arcsec": 38265.8,
+      "sigma_pa_deg": 89.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 298.23789,
+      "dec_deg": -14.80407,
+      "sigma_major_arcsec": 278651.0,
+      "sigma_minor_arcsec": 38270.7,
+      "sigma_pa_deg": 89.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 298.14392,
+      "dec_deg": -14.89265,
+      "sigma_major_arcsec": 284658.1,
+      "sigma_minor_arcsec": 38799.7,
+      "sigma_pa_deg": 89.7,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 300.16188,
+      "dec_deg": -14.73878,
+      "sigma_major_arcsec": 284751.7,
+      "sigma_minor_arcsec": 38699.2,
+      "sigma_pa_deg": 89.2,
+      "vmag_estimate": null
     }
   ],
-  "note_plain": "The orbit comes from 10 hours of observations ending May 2025, so where it is now is uncertain by about 87 degrees: it needs new observations to be found again."
+  "note_plain": "The orbit comes from 10 hours of observations ending May 2025, so where it is now is uncertain by about 85 degrees: it needs new observations to be found again."
 }

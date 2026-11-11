@@ -1368,7 +1368,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "9607 (1992 DS6)",
+      "h": 13.37,
+      "g": null,
+      "diameter_km": 9.224,
+      "diameter_sigma_km": 0.116,
+      "albedo": 0.131,
+      "albedo_sigma": 0.017,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=9607"
+    },
     "caveats": []
   }
 }

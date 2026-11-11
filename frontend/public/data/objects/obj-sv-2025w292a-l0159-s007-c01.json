@@ -2203,7 +2203,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "1615 Bardwell (1950 BW)",
+      "h": 11.51,
+      "g": null,
+      "diameter_km": 29.139,
+      "diameter_sigma_km": 0.148,
+      "albedo": 0.06,
+      "albedo_sigma": 0.01,
+      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=1615"
+    },
     "caveats": []
   }
 }

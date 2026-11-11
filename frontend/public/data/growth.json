@@ -47,6 +47,16 @@
    "objects": 203,
    "identified": 149,
    "unidentified": 54
+  },
+  {
+   "date": "2026-11-11",
+   "tiles_searched": 6594,
+   "area_deg2": 540.09,
+   "sky_percent": 1.3092,
+   "candidates": 237,
+   "objects": 218,
+   "identified": 184,
+   "unidentified": 34
   }
  ]
 }

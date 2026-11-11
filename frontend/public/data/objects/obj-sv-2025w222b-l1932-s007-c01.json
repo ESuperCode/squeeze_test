@@ -950,17 +950,7 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": {
-      "designation": "11226 (1999 JO36)",
-      "h": 12.74,
-      "g": null,
-      "diameter_km": 12.229,
-      "diameter_sigma_km": 3.905,
-      "albedo": 0.116,
-      "albedo_sigma": 0.087,
-      "diameter_ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2016AJ....152...63N)",
-      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=11226"
-    },
+    "jpl": null,
     "caveats": []
   }
 }

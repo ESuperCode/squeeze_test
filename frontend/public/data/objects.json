@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "pipeline_version": "0.1.0+git.56e0ec2",
   "build_run_id": "gh-41906851583-1",
-  "generated_utc": "2026-11-05T04:12:56Z",
+  "generated_utc": "2026-11-11T03:51:14Z",
   "total": 237,
   "objects": [
     {
@@ -143,7 +143,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 11.5
+      "diameter_upper_limit_km": 13.0
     },
     {
       "object_id": "obj-sv-2026w292a-l0246-n029-c02",
@@ -443,7 +443,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 78.9
+      "diameter_upper_limit_km": 153.0
     },
     {
       "object_id": "obj-sv-2025w292a-l0141-s010-c01",
@@ -855,7 +855,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 49.6
+      "diameter_upper_limit_km": 82.1
     },
     {
       "object_id": "obj-sv-2025w292a-l0177-s007-c01",
@@ -1066,7 +1066,7 @@
       "known_object_designation": null,
       "also_seen_as": [],
       "size_status": "sized",
-      "diameter_km": 62.7,
+      "diameter_km": 52.5,
       "diameter_upper_limit_km": null
     },
     {
@@ -2059,7 +2059,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 553.0
+      "diameter_upper_limit_km": 499.0
     },
     {
       "object_id": "obj-sv-2025w412b-l1140-s007-c02",
@@ -2091,7 +2091,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 549.0
+      "diameter_upper_limit_km": 462.0
     },
     {
       "object_id": "obj-sv-2026w051a-l2157-n005-c01",
@@ -3018,7 +3018,7 @@
       "known_object_designation": null,
       "also_seen_as": [],
       "size_status": "sized",
-      "diameter_km": 25.1,
+      "diameter_km": 33.1,
       "diameter_upper_limit_km": null
     },
     {
@@ -3823,7 +3823,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 46.3
+      "diameter_upper_limit_km": 66.3
     },
     {
       "object_id": "obj-sv-2025w272a-l0024-s004-c01",
@@ -4091,7 +4091,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 20.3
+      "diameter_upper_limit_km": 36.5
     },
     {
       "object_id": "obj-sv-2025w292a-l0165-s013-c01",
@@ -7050,7 +7050,7 @@
       "known_object_designation": null,
       "also_seen_as": [],
       "size_status": "sized",
-      "diameter_km": 5.86,
+      "diameter_km": 5.73,
       "diameter_upper_limit_km": null
     },
     {
@@ -7251,7 +7251,7 @@
       "also_seen_as": [],
       "size_status": "upper_limit",
       "diameter_km": null,
-      "diameter_upper_limit_km": 26.4
+      "diameter_upper_limit_km": 220.0
     },
     {
       "object_id": "obj-sv-2025w174b-l1560-s004-c01",

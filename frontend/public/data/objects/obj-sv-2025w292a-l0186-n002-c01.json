@@ -1863,7 +1863,17 @@
     "n_mc": 0,
     "points": [],
     "model": null,
-    "jpl": null,
+    "jpl": {
+      "designation": "4195 Esambaev (1982 SK8)",
+      "h": 12.74,
+      "g": null,
+      "diameter_km": null,
+      "diameter_sigma_km": null,
+      "albedo": null,
+      "albedo_sigma": null,
+      "diameter_ref": null,
+      "sbdb_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=4195"
+    },
     "caveats": []
   }
 }
