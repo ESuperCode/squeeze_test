@@ -11,13 +11,13 @@ on:
         type: string
 
       start_utc:
-        description: "Start date in UTC; blank means now"
+        description: "Timeline start in UTC (blank = 24 hours before run)"
         required: false
         default: ""
         type: string
 
       identity_mode:
-        description: "Commit attribution"
+        description: "Synthetic author selection"
         required: true
         default: "bot"
         type: choice
@@ -27,31 +27,31 @@ on:
           - two
 
       name1:
-        description: "Demo Contributor A name"
-        required: false
+        description: "Synthetic contributor A name"
+        required: true
         default: "Demo Contributor A"
         type: string
 
       email1:
-        description: "Demo Contributor A email"
-        required: false
+        description: "Synthetic contributor A email (.invalid required)"
+        required: true
         default: "demo-a@example.invalid"
         type: string
 
       name2:
-        description: "Demo Contributor B name"
-        required: false
+        description: "Synthetic contributor B name"
+        required: true
         default: "Demo Contributor B"
         type: string
 
       email2:
-        description: "Demo Contributor B email"
-        required: false
+        description: "Synthetic contributor B email (.invalid required)"
+        required: true
         default: "demo-b@example.invalid"
         type: string
 
       assignment_seed:
-        description: "Random assignment seed"
+        description: "Seed for randomized balanced assignment"
         required: true
         default: "42"
         type: string
@@ -59,50 +59,47 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: full-synthetic-history
-  cancel-in-progress: false
-
 jobs:
-  rebuild:
-
+  reconstruct:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout destination
+      - name: Checkout workflow repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Install Python
+      - name: Preserve workflow control branch
+        run: |
+          git push origin HEAD:refs/heads/history-demo-control
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install Git Filter Repo
         run: |
+          python -m pip install --upgrade pip
           python -m pip install git-filter-repo
 
-      - name: Reconstruct Git history
+      - name: Reconstruct and publish history
         env:
           SOURCE_REPO: https://github.com/epsretriever/spherex-planet-x.git
-
           DESTINATION_REPO: https://github.com/ESuperCode/squeeze_test.git
 
-          WINDOW_HOURS: ${{ inputs.window_hours || '24' }}
+          WINDOW_HOURS: ${{ inputs.window_hours }}
+          START_UTC: ${{ inputs.start_utc }}
 
-          START_UTC: ${{ inputs.start_utc || '' }}
+          IDENTITY_MODE: ${{ inputs.identity_mode }}
 
-          IDENTITY_MODE: ${{ inputs.identity_mode || 'bot' }}
+          NAME1: ${{ inputs.name1 }}
+          EMAIL1: ${{ inputs.email1 }}
 
-          NAME1: ${{ inputs.name1 || 'Demo Contributor A' }}
+          NAME2: ${{ inputs.name2 }}
+          EMAIL2: ${{ inputs.email2 }}
 
-          EMAIL1: ${{ inputs.email1 || 'demo-a@example.invalid' }}
-
-          NAME2: ${{ inputs.name2 || 'Demo Contributor B' }}
-
-          EMAIL2: ${{ inputs.email2 || 'demo-b@example.invalid' }}
-
-          ASSIGNMENT_SEED: ${{ inputs.assignment_seed || '42' }}
+          ASSIGNMENT_SEED: ${{ inputs.assignment_seed }}
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
