@@ -101,7 +101,7 @@ jobs:
 
           ASSIGNMENT_SEED: ${{ inputs.assignment_seed }}
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
 
         run: |
           python full_history_demo.py --push
