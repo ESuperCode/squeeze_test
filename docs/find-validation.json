@@ -1,34 +1,35 @@
 {
-  "generated_utc": "2026-11-05T04:14:01.672Z",
+  "generated_utc": "2026-11-11T03:44:46.630Z",
   "production_api": "https://spherex-planet-x.bodhishanbhag.workers.dev",
-  "n_bodies_in_catalog": 149,
+  "n_bodies_in_catalog": 184,
   "n_validated": 20,
   "n_answered": 20,
-  "pipeline_frames": 520,
-  "recovered_frames": 520,
+  "pipeline_frames": 474,
+  "recovered_frames": 474,
   "match_rate": 1,
   "bodies_fully_recovered": 20,
-  "median_seconds": 25.9,
+  "median_seconds": 25.3,
   "rows": [
     {
-      "query": "1426",
+      "query": "431",
       "object_ids": [
-        "obj-sv-2025w252a-l0009-n005-c01",
-        "obj-sv-2025w252a-l0012-n005-c01"
+        "obj-sv-2026w132a-l1050-n002-c01",
+        "obj-sv-2025w412b-l1137-s007-c02",
+        "obj-sv-2025w412b-l1140-s007-c02"
       ],
       "http_status": 200,
       "status": "found",
       "error": null,
-      "pipeline_frames": 30,
-      "recovered": 30,
-      "find_frames": 463,
-      "find_visits": 82,
+      "pipeline_frames": 44,
+      "recovered": 44,
+      "find_frames": 259,
+      "find_visits": 44,
       "complete": true,
-      "upstream_calls": 28,
-      "seconds": 30.8,
+      "upstream_calls": 17,
+      "seconds": 19.7,
       "missing": [],
       "notes": [
-        "119 of 463 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "119 of 259 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -46,7 +47,7 @@
       "find_visits": 71,
       "complete": true,
       "upstream_calls": 26,
-      "seconds": 26.7,
+      "seconds": 26.3,
       "missing": [],
       "notes": [
         "116 of 408 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
@@ -69,10 +70,10 @@
       "find_visits": 49,
       "complete": true,
       "upstream_calls": 19,
-      "seconds": 20.1,
+      "seconds": 23.7,
       "missing": [],
       "notes": [
-        "61 of 295 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "118 of 295 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -90,7 +91,7 @@
       "find_visits": 51,
       "complete": true,
       "upstream_calls": 21,
-      "seconds": 26.2,
+      "seconds": 27.6,
       "missing": [],
       "notes": [
         "71 of 307 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
@@ -111,10 +112,52 @@
       "find_visits": 50,
       "complete": true,
       "upstream_calls": 21,
-      "seconds": 24.1,
+      "seconds": 19.7,
       "missing": [],
       "notes": [
-        "67 of 302 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "117 of 302 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+      ]
+    },
+    {
+      "query": "1669",
+      "object_ids": [
+        "obj-sv-2025w452a-l1398-n008-c01",
+        "obj-sv-2025w452a-l1398-n011-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 23,
+      "recovered": 23,
+      "find_frames": 319,
+      "find_visits": 62,
+      "complete": true,
+      "upstream_calls": 19,
+      "seconds": 13.5,
+      "missing": [],
+      "notes": [
+        "115 of 319 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+      ]
+    },
+    {
+      "query": "902",
+      "object_ids": [
+        "obj-sv-2025w452a-l3273-n005-c01",
+        "obj-sv-2025w452a-l3276-n005-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 22,
+      "recovered": 22,
+      "find_frames": 314,
+      "find_visits": 60,
+      "complete": true,
+      "upstream_calls": 24,
+      "seconds": 24.3,
+      "missing": [],
+      "notes": [
+        "117 of 314 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -132,7 +175,7 @@
       "find_visits": 80,
       "complete": true,
       "upstream_calls": 29,
-      "seconds": 26.1,
+      "seconds": 26.6,
       "missing": [],
       "notes": [
         "119 of 470 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
@@ -152,11 +195,32 @@
       "find_frames": 326,
       "find_visits": 63,
       "complete": true,
-      "upstream_calls": 23,
-      "seconds": 21.6,
+      "upstream_calls": 22,
+      "seconds": 33.9,
       "missing": [],
       "notes": [
         "88 of 326 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+      ]
+    },
+    {
+      "query": "1686",
+      "object_ids": [
+        "obj-sv-2025w292a-l0171-s001-c01",
+        "obj-sv-2025w292a-l0171-s004-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 20,
+      "recovered": 20,
+      "find_frames": 407,
+      "find_visits": 68,
+      "complete": true,
+      "upstream_calls": 27,
+      "seconds": 26.7,
+      "missing": [],
+      "notes": [
+        "119 of 407 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -174,10 +238,31 @@
       "find_visits": 54,
       "complete": true,
       "upstream_calls": 22,
-      "seconds": 19.7,
+      "seconds": 38.4,
       "missing": [],
       "notes": [
-        "63 of 302 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "119 of 302 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+      ]
+    },
+    {
+      "query": "2158",
+      "object_ids": [
+        "obj-sv-2025w292a-l0165-n005-c01",
+        "obj-sv-2025w292a-l0168-n005-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 20,
+      "recovered": 20,
+      "find_frames": 368,
+      "find_visits": 66,
+      "complete": true,
+      "upstream_calls": 27,
+      "seconds": 31.7,
+      "missing": [],
+      "notes": [
+        "118 of 368 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -195,10 +280,31 @@
       "find_visits": 53,
       "complete": true,
       "upstream_calls": 19,
-      "seconds": 26.7,
+      "seconds": 24.2,
       "missing": [],
       "notes": [
-        "56 of 292 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "118 of 292 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+      ]
+    },
+    {
+      "query": "4195",
+      "object_ids": [
+        "obj-sv-2025w292a-l0186-n002-c01",
+        "obj-sv-2025w292a-l0192-n002-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 20,
+      "recovered": 20,
+      "find_frames": 265,
+      "find_visits": 43,
+      "complete": true,
+      "upstream_calls": 21,
+      "seconds": 16.8,
+      "missing": [],
+      "notes": [
+        "26 of 265 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -217,11 +323,32 @@
       "find_visits": 48,
       "complete": true,
       "upstream_calls": 19,
-      "seconds": 20.6,
+      "seconds": 14.3,
       "missing": [],
       "notes": [
-        "51 of 283 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects.",
+        "114 of 283 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects.",
         "1 frames were dropped: the exact position fell just outside the detector."
+      ]
+    },
+    {
+      "query": "2400",
+      "object_ids": [
+        "obj-sv-2025w292a-l0132-s004-c01",
+        "obj-sv-2025w292a-l0132-s001-c01"
+      ],
+      "http_status": 200,
+      "status": "found",
+      "error": null,
+      "pipeline_frames": 19,
+      "recovered": 19,
+      "find_frames": 441,
+      "find_visits": 77,
+      "complete": true,
+      "upstream_calls": 26,
+      "seconds": 27.9,
+      "missing": [],
+      "notes": [
+        "119 of 441 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
@@ -239,7 +366,7 @@
       "find_visits": 71,
       "complete": true,
       "upstream_calls": 25,
-      "seconds": 26.5,
+      "seconds": 25.3,
       "missing": [],
       "notes": [
         "116 of 396 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
@@ -260,174 +387,52 @@
       "find_visits": 53,
       "complete": true,
       "upstream_calls": 19,
-      "seconds": 31.4,
+      "seconds": 32.7,
       "missing": [],
       "notes": [
         "72 of 307 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
-      "query": "495",
+      "query": "1608",
       "object_ids": [
-        "obj-sv-2026w051a-l2157-n005-c01",
-        "obj-sv-2026w051a-l2160-n005-c01"
+        "obj-sv-2026w212a-l1761-s022-c02",
+        "obj-sv-2026w212a-l1764-s022-c02"
       ],
       "http_status": 200,
       "status": "found",
       "error": null,
-      "pipeline_frames": 35,
-      "recovered": 35,
-      "find_frames": 276,
-      "find_visits": 50,
-      "complete": true,
-      "upstream_calls": 18,
-      "seconds": 19.9,
-      "missing": [],
-      "notes": [
-        "38 of 276 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "1667",
-      "object_ids": [
-        "obj-sv-2025w412b-l1149-n008-c01",
-        "obj-sv-2025w412b-l1149-n011-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 17,
-      "recovered": 17,
-      "find_frames": 322,
-      "find_visits": 55,
-      "complete": true,
-      "upstream_calls": 17,
-      "seconds": 17.5,
-      "missing": [],
-      "notes": [
-        "118 of 322 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "14436",
-      "object_ids": [
-        "obj-sv-2025w174b-l1578-s001-c01",
-        "obj-sv-2025w174b-l1578-s004-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 16,
-      "recovered": 16,
-      "find_frames": 245,
-      "find_visits": 48,
+      "pipeline_frames": 18,
+      "recovered": 18,
+      "find_frames": 269,
+      "find_visits": 45,
       "complete": true,
       "upstream_calls": 19,
-      "seconds": 20.2,
+      "seconds": 14.8,
       "missing": [],
       "notes": [
-        "8 of 245 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "118 of 269 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     },
     {
-      "query": "77",
+      "query": "7043",
       "object_ids": [
-        "obj-sv-2026w051a-l2157-s007-c01",
-        "obj-sv-2026w051a-l2163-s007-c01"
+        "obj-sv-2025w292a-l0213-s010-c01",
+        "obj-sv-2025w292a-l0216-s010-c01"
       ],
       "http_status": 200,
       "status": "found",
       "error": null,
-      "pipeline_frames": 32,
-      "recovered": 32,
-      "find_frames": 276,
-      "find_visits": 52,
-      "complete": true,
-      "upstream_calls": 17,
-      "seconds": 15.6,
-      "missing": [],
-      "notes": [
-        "38 of 276 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "760",
-      "object_ids": [
-        "obj-sv-2025w212c-l3402-s013-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 31,
-      "recovered": 31,
-      "find_frames": 374,
-      "find_visits": 70,
-      "complete": true,
-      "upstream_calls": 25,
-      "seconds": 25.9,
-      "missing": [],
-      "notes": [
-        "121 of 374 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "1639",
-      "object_ids": [
-        "obj-sv-2025w212c-l3369-s013-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 30,
-      "recovered": 30,
-      "find_frames": 267,
-      "find_visits": 47,
-      "complete": true,
-      "upstream_calls": 20,
-      "seconds": 25.1,
-      "missing": [],
-      "notes": [
-        "32 of 267 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "2524",
-      "object_ids": [
-        "obj-aquarius-b-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 30,
-      "recovered": 30,
-      "find_frames": 460,
-      "find_visits": 75,
-      "complete": true,
-      "upstream_calls": 27,
-      "seconds": 26.6,
-      "missing": [],
-      "notes": [
-        "120 of 460 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
-      ]
-    },
-    {
-      "query": "2505",
-      "object_ids": [
-        "obj-sv-2025w272a-l0045-s022-c01"
-      ],
-      "http_status": 200,
-      "status": "found",
-      "error": null,
-      "pipeline_frames": 29,
-      "recovered": 29,
-      "find_frames": 366,
-      "find_visits": 63,
+      "pipeline_frames": 18,
+      "recovered": 18,
+      "find_frames": 327,
+      "find_visits": 55,
       "complete": true,
       "upstream_calls": 24,
-      "seconds": 25.9,
+      "seconds": 18.3,
       "missing": [],
       "notes": [
-        "120 of 366 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
+        "93 of 327 predicted positions are interpolated from Horizons' daily geocentric table (not computed from SPHEREx's own position), which can be off by several arcseconds for nearby objects."
       ]
     }
   ]
