@@ -58,7 +58,9 @@ on:
 
 permissions:
   contents: write
-
+  actions: write
+  workflows: write
+  
 jobs:
   reconstruct:
     runs-on: ubuntu-latest
