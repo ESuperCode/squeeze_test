@@ -439,7 +439,7 @@
       "separation_arcsec": 403.7
     },
     "observer": "SPHEREx (geocentric JPL predictions corrected with the spacecraft position from the FITS headers)",
-    "query_utc": "2026-11-01T20:28:51.502Z",
+    "query_utc": "2026-11-11T04:34:36.221Z",
     "enrichment": "static"
   },
   "scores": {
@@ -467,7 +467,7 @@
       "known_object.nearest.separation_arcsec"
     ],
     "numeric_check": "passed",
-    "generated_utc": "2026-11-01T20:29:26.659Z"
+    "generated_utc": "2026-11-11T04:35:17.340Z"
   },
   "spectrum": {
     "units": {

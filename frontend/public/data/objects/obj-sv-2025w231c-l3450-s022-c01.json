@@ -438,7 +438,7 @@
       "separation_arcsec": 222.0
     },
     "observer": "SPHEREx (spacecraft position from the FITS headers, sent to JPL SBIdent as xobs); JPL Horizons refinement unavailable",
-    "query_utc": "2026-11-01T20:01:16.855Z",
+    "query_utc": "2026-11-11T03:59:21.517Z",
     "enrichment": "static"
   },
   "scores": {
@@ -466,7 +466,7 @@
       "known_object.nearest.separation_arcsec"
     ],
     "numeric_check": "passed",
-    "generated_utc": "2026-11-01T20:01:51.959Z"
+    "generated_utc": "2026-11-11T04:00:04.006Z"
   },
   "spectrum": {
     "units": {

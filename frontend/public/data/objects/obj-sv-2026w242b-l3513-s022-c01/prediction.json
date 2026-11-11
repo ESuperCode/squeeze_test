@@ -2,101 +2,11 @@
   "schema_version": "1.1",
   "pipeline_version": "0.1.0+git.a0f12ad",
   "object_id": "obj-sv-2026w242b-l3513-s022-c01",
-  "generated_utc": "2026-11-02T19:19:15Z",
+  "generated_utc": "2026-11-11T05:18:17Z",
   "orbit_epoch_mjd": 61203.027064,
   "observer": "geocenter",
   "days": 60,
   "points": [
-    {
-      "time_utc": "2026-11-02T00:00:00Z",
-      "mjd": 61346.0,
-      "ra_deg": 341.38079,
-      "dec_deg": -15.1164,
-      "sigma_major_arcsec": 82132.8,
-      "sigma_minor_arcsec": 15065.0,
-      "sigma_pa_deg": 82.4,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-03T00:00:00Z",
-      "mjd": 61347.0,
-      "ra_deg": 341.36119,
-      "dec_deg": -15.09233,
-      "sigma_major_arcsec": 82106.0,
-      "sigma_minor_arcsec": 14966.2,
-      "sigma_pa_deg": 82.4,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-04T00:00:00Z",
-      "mjd": 61348.0,
-      "ra_deg": 341.34835,
-      "dec_deg": -15.06524,
-      "sigma_major_arcsec": 82063.1,
-      "sigma_minor_arcsec": 14849.1,
-      "sigma_pa_deg": 82.3,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-05T00:00:00Z",
-      "mjd": 61349.0,
-      "ra_deg": 341.34243,
-      "dec_deg": -15.03516,
-      "sigma_major_arcsec": 82008.9,
-      "sigma_minor_arcsec": 14714.7,
-      "sigma_pa_deg": 82.2,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-06T00:00:00Z",
-      "mjd": 61350.0,
-      "ra_deg": 341.34373,
-      "dec_deg": -15.00206,
-      "sigma_major_arcsec": 81950.7,
-      "sigma_minor_arcsec": 14566.3,
-      "sigma_pa_deg": 82.1,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-07T00:00:00Z",
-      "mjd": 61351.0,
-      "ra_deg": 341.35256,
-      "dec_deg": -14.9659,
-      "sigma_major_arcsec": 81897.2,
-      "sigma_minor_arcsec": 14408.5,
-      "sigma_pa_deg": 82.0,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-08T00:00:00Z",
-      "mjd": 61352.0,
-      "ra_deg": 341.36916,
-      "dec_deg": -14.92661,
-      "sigma_major_arcsec": 81855.9,
-      "sigma_minor_arcsec": 14246.4,
-      "sigma_pa_deg": 81.9,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-09T00:00:00Z",
-      "mjd": 61353.0,
-      "ra_deg": 341.39368,
-      "dec_deg": -14.88415,
-      "sigma_major_arcsec": 81832.5,
-      "sigma_minor_arcsec": 14084.1,
-      "sigma_pa_deg": 81.8,
-      "vmag_estimate": null
-    },
-    {
-      "time_utc": "2026-11-10T00:00:00Z",
-      "mjd": 61354.0,
-      "ra_deg": 341.42618,
-      "dec_deg": -14.8385,
-      "sigma_major_arcsec": 81830.7,
-      "sigma_minor_arcsec": 13925.1,
-      "sigma_pa_deg": 81.7,
-      "vmag_estimate": null
-    },
     {
       "time_utc": "2026-11-11T00:00:00Z",
       "mjd": 61355.0,
@@ -616,7 +526,97 @@
       "sigma_minor_arcsec": 7606.0,
       "sigma_pa_deg": 78.8,
       "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-02T00:00:00Z",
+      "mjd": 61407.0,
+      "ra_deg": 350.74031,
+      "dec_deg": -9.21483,
+      "sigma_major_arcsec": 85938.8,
+      "sigma_minor_arcsec": 7352.4,
+      "sigma_pa_deg": 78.7,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-03T00:00:00Z",
+      "mjd": 61408.0,
+      "ra_deg": 350.99287,
+      "dec_deg": -9.07265,
+      "sigma_major_arcsec": 86500.8,
+      "sigma_minor_arcsec": 7087.9,
+      "sigma_pa_deg": 78.6,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-04T00:00:00Z",
+      "mjd": 61409.0,
+      "ra_deg": 351.24872,
+      "dec_deg": -8.92862,
+      "sigma_major_arcsec": 87110.2,
+      "sigma_minor_arcsec": 6813.4,
+      "sigma_pa_deg": 78.5,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-05T00:00:00Z",
+      "mjd": 61410.0,
+      "ra_deg": 351.5083,
+      "dec_deg": -8.7826,
+      "sigma_major_arcsec": 87762.6,
+      "sigma_minor_arcsec": 6530.1,
+      "sigma_pa_deg": 78.5,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-06T00:00:00Z",
+      "mjd": 61411.0,
+      "ra_deg": 351.77203,
+      "dec_deg": -8.63446,
+      "sigma_major_arcsec": 88452.7,
+      "sigma_minor_arcsec": 6239.3,
+      "sigma_pa_deg": 78.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-07T00:00:00Z",
+      "mjd": 61412.0,
+      "ra_deg": 352.04035,
+      "dec_deg": -8.48408,
+      "sigma_major_arcsec": 89174.3,
+      "sigma_minor_arcsec": 5942.9,
+      "sigma_pa_deg": 78.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-08T00:00:00Z",
+      "mjd": 61413.0,
+      "ra_deg": 352.31368,
+      "dec_deg": -8.33134,
+      "sigma_major_arcsec": 89920.4,
+      "sigma_minor_arcsec": 5643.0,
+      "sigma_pa_deg": 78.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-09T00:00:00Z",
+      "mjd": 61414.0,
+      "ra_deg": 352.59237,
+      "dec_deg": -8.17618,
+      "sigma_major_arcsec": 90683.6,
+      "sigma_minor_arcsec": 5342.1,
+      "sigma_pa_deg": 78.4,
+      "vmag_estimate": null
+    },
+    {
+      "time_utc": "2027-01-10T00:00:00Z",
+      "mjd": 61415.0,
+      "ra_deg": 352.87675,
+      "dec_deg": -8.01854,
+      "sigma_major_arcsec": 91456.2,
+      "sigma_minor_arcsec": 5042.9,
+      "sigma_pa_deg": 78.4,
+      "vmag_estimate": null
     }
   ],
-  "note_plain": "The orbit comes from 29 hours of observations ending June 2026, so where it is now is uncertain by about 24 degrees: it needs new observations to be found again."
+  "note_plain": "The orbit comes from 29 hours of observations ending June 2026, so where it is now is uncertain by about 25 degrees: it needs new observations to be found again."
 }

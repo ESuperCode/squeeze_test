@@ -693,7 +693,7 @@
     "checked": true,
     "not_checked_reason": null,
     "search_radius_arcsec": 15,
-    "query_utc": "2026-11-01T20:51:16.080Z",
+    "query_utc": "2026-11-11T05:00:21.848Z",
     "enrichment": "static",
     "matched": true,
     "catalogs_checked": [
@@ -931,7 +931,7 @@
       "known_object.per_epoch[4].separation_arcsec"
     ],
     "numeric_check": "passed",
-    "generated_utc": "2026-11-01T20:52:09.494Z"
+    "generated_utc": "2026-11-11T05:01:32.470Z"
   },
   "spectrum": {
     "units": {
